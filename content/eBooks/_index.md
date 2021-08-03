@@ -6,9 +6,9 @@ title: eBooks
 
 Here are a couple of eBooks.  They should be easy to read on a smartphone.  They are works-in-progress and will be continually updated.  
 
-[Nephromaths](/books/NEPHROMATHS/index.html): a quick-reference guide to electrolyte and acid-base disorders.  
+[Nephromaths](https://kidneyfish-nephromaths.netlify.app/): a quick-reference guide to electrolyte and acid-base disorders.  
 
-[LATINART](/books/LATINART/index.html): a list of **LA**ndmark **T**rials **I**n **N**ephrology **A**nd **R**enal **T**ransplant.  
+[LATINART](https://kidneyfish-latinart.netlify.app/): a list of **LA**ndmark **T**rials **I**n **N**ephrology **A**nd **R**enal **T**ransplant.  
 
 
 <!-- Here is a webpage with links to resources that might be useful when [reading a scientific paper](/books/How_to_read_a_paper.html). -->
