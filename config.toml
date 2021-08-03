@@ -1,0 +1,51 @@
+## REMEMBER TO CONSULT THE README.md FILE FOR ANANKE! ##
+
+# use blogdown::build_site() before uploading to Netlify (otherwise draft posts will appear if only use render_site)
+
+title = "From Fish To Physician"
+baseURL = "https://www.kidneyfish.net"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"] # I put this in when prompted by a warning to do so
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-165990856-1"
+enableRobotsTXT = true 
+# show_reading_times = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "images/favicon.ico" # put into static folder
+  description = "A blog exploring how the kidney works"
+  facebook = ""
+  twitter = "https://twitter.com/renalrob"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  # background_color_class = "bg-black"
+  body_classes = "avenir bg-near-white"
+  
+  featured_image = "/images/homepage.jpg"
+  recent_posts_number = 4
+  # show_reading_times = true
+  
+  # I added env = "production" to ensure that the site can be indexed by Google...
+  # ...to change meta info from NOINDEX, NOFOLLOW to INDEX, FOLLOW
+  # the alternatives didn't seem to work: [context.production.environment] | HUGO_ENV = "production"
+  env = "production"
+  
+  custom_css = ["RWH_kidneyfish.css"] 
+

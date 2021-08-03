@@ -1,0 +1,85 @@
+---
+title: What is the best way to skin a cat?
+author: RWH
+date: '2020-06-16'
+slug: skinning-a-cat
+categories:
+  - overview
+tags: []
+description: 'How to assess free water balance in dysnatraemias'
+featured_image: '/images/cat.jpg'
+---
+
+## In this post...
+
+- How to assess free water balance in the dysnatraemias  
+- How to factor in solute / cation balance  
+
+
+> "There's more than one way to skin a cat."
+>
+> --- Proverb
+
+
+So the proverb goes.  But that is only because whoever came up with the proverb back in the [19th century](https://grammarist.com/phrase/more-than-one-way-to-skin-a-cat/) had never attempted to assess free water balance in a case of hyponatraemia.  More than any other electrolyte disorder, hyponatraemia has the capacity to become unneccessarily complicated.  There are no shortage of potential methods and formulas proporting to help the physician, so which should we use?  
+
+
+## The options
+
+Let's say we have a patient with hyponatraemia in whom we have requested urinary electrolytes.  We think they have SIADH and would like to institute a fluid restriction.  What is the best way to set a limit on daily water intake -- and how can we gauge if additional measures are likely to be required (urea, furosemide, hypertonic saline etc.)?
+
+Let's run though the options.  (The discussion that follows here will stick to the broad principles involved.  For details, see the [water and sodium pages](/books/NEPHROMATHS/water-and-sodium) of "Nephromaths".)  
+
+All methods of addressing this question are in some way derived from the The Edelman equation:  
+
+\begin{equation}
+  P_{Na} = \frac{Na_{e} + K_{e}}{TBW}
+  (\#eq:edelman)
+\end{equation}
+
+Here, Na~(e)~ and K~(e)~ are exchangeable sodium and potassium and TBW is total body water.  This tells us that we need to consider both cation balance and free water balance.  We can do this in one of three ways, listed here in order of ascending complexity:  
+
+1) by calculating the [urine:plasma electrolyte ratio](https://pubmed.ncbi.nlm.nih.gov/10768609/) or "Furst" ratio  
+
+2) by calculating the [electolyte-free water clearance, EFWC](https://pubmed.ncbi.nlm.nih.gov/3799631/)  
+
+3) by calculating some sort of more complex measure of total cation and water balance such as ["tonicity balance"](https://pubmed.ncbi.nlm.nih.gov/11430551/) (in which the free water and cation balances are assessed independently) or [whole-body electolyte-free water clearance, WB-EFWC](https://pubmed.ncbi.nlm.nih.gov/16544174/) or [electolyte-free water balace, EFWB](https://www.frontiersin.org/articles/10.3389/fmed.2018.00103/full)  
+
+
+## Pros and cons  
+
+Options 1) and 2) are relatively easy to calculate and understand.  However they consider only the kidney's contribution for free water balance.  They ignore water / cation intake and non-renal losses.  This might be okay in a majority of cases where unmeasured free water balance is near zero and cation intake / non-renal losses are predictable or negligible.  However, by placing an emphasis on urinary water excretion, it can trick the physician into neglecting other key variables (such as free water intake, solute intake, GI losses etc.)  In particular, it is important to remember that protein intake or urea supplementation can increase net free water clearance, by [increasing urine flow](https://pubmed.ncbi.nlm.nih.gov/9631849/).  
+
+The methods in option 3) can provide a meticulous quantitative assessment of free water balance.  However they have many limitations.  First, the equations are horrible complicated and difficult to understand intuitively.  Second, many of the input variables will be difficult or impossible to measure (e.g. dietary solute intake).  Third, the precise quantitative outputs give an illusion of accuracy.  (We might calculate that a patient has a free water balance of -342 ml per day -- but there will be huge, unknown error bars around that point estimate.)  Arguable, the main value of these methods is educational: learning about these equations and their derivation is a good way of learning about the factors that determine extracellular tonicity.  
+
+
+## So what is the answer?!
+
+All of these approaches can only ever hope to be semi-quantitative at the bedside -- not least because so many of the inputs and output variables are unknown or tricky to measure.  For this reason, I prefer starting with the urine:plasma electrolyte ratio.  This is quick and easy to calculate and ostentatiously does not *attempt* to give a precise result.  We can quickly determine whether any fluid restriction needs to be [severe, middling or relaxed](/books/NEPHROMATHS/water-and-sodium#free-water-clearance).  We make sweeping assumptions about unmeasurable free water balance and cation intake -- but this is okay so long as we acknowledge these and "fudge" the result to account for obvious violations.  (For example, we might decide to give supplemental salts or protein in patients who are eating a carbohydrate-rich "tea and toast" diet or we might liberalise any water restriction in patients who are receiving intravenous electrolyte infusions.)  
+
+For most patients, the urine:plasma electrolyte ratio provide a useful starting point - and thereafter therapy can be revised in response to a trend in plasma sodium.  (If a 1.5L water restriction only held plasma sodium static for 24 hours at 120 mM then cut the allowance to 1.0L per day for the next 24 hours.)  The other approaches can offer a "sense-check" or an alternative approach in tricky cases.  
+
+
+## Final approach to dysnatraemia
+
+So here is a broad approach to dysnatraemia (and we're really just talking about hyponatraemia as the solution to hypernatraemia is usually easy: give more water).  
+
+1) Make a clinical diagnosis (history, volume status) - and be predominantly guided by that.  (In Bayseian terms, use clinical judgment to set a "prior" diagnosis and then modify this as the results of any invesigations trickle in.)  
+
+2) Check UOsm and UNa - and interpret as [here](/books/NEPHROMATHS/water-and-sodium#hyponatraemia).  Often helpful in diagnosing the *cause* of hyponatraemia.  
+
+3) Calculate the urine:plasma electrolyte ratio - and interpret as [here](/books/NEPHROMATHS/water-and-sodium#free-water-clearance).  Often useful to set an approximate starting water restriction (e.g. in SIADH).  
+
+4) Consider - broadly - whether other sources of free water and cation input / output need to be factored in.  Use this to revise any fluid restriction and consider whether salt or protein supplementation is required.  Interpret solute intake in the context of [normal dietary content](/books/NEPHROMATHS/general-approach-to-a-patient-with-electrolyte-disturbance#iv-fluids-electrolyte-supplements).  
+
+<!--
+
+Summary:  
+
+<center>
+
+![](/images/EFWB.png){width=100%}
+
+</center>
+
+-->

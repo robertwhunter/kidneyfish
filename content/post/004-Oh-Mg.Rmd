@@ -1,0 +1,52 @@
+---
+title: Oh Mg (part 1)
+author: RWH
+date: '2020-01-12'
+slug: ppis-and-magnesium
+categories:
+  - clinical
+tags:
+  - magnesium
+  - drugs
+description: 'PPIs and magnesium'
+featured_image: '/images/Mg.jpg'
+---
+
+## In this post...
+
+- PPIs are associated with hypomagnesaemia   
+- PPIs reduce intestinal Mg^2+^ absorption  
+- diuretics, CNIs and anti-cancer agents promote renal Mg^2+^ loss  
+
+
+## PPIs and Mg
+
+We had a referral recently for a case of persistent hypomagnesaemia "? cause".  As is often the case, the patient had been taking a PPI for some years.  There was no obvious alternative explanation and FE~Mg~ was low - so we blamed this as the likely culprit.  But was this just lazy?  It was a prompt to review the literature regarding the strength of the association between PPI use and hypomagnesaemia and the underlying molecular mechanism.  
+
+
+## Do PPIs cause hypomagnesaemia?  
+
+PPIs are taken by millions world-wide are generally pretty safe.  We know from RCTs such as the [COMPASS trial](https://www.ncbi.nlm.nih.gov/pubmed/31152740) that adverse effects are relatively rare, but that PPIs do cause a small increase in the risk of enteric infections.  
+
+There is an association between PPI use and hypomagnesaemia: an association that is potentiated by concomitant use of [diuretics](https://www.ncbi.nlm.nih.gov/pubmed/23325090).  Although rooted in observational data, this association has been replicated in different populations and a compelling argument for a causative role PPIs comes from cases in which the hypomagnesaemia responds to PPI withdrawal and [re-challenge](https://www.ncbi.nlm.nih.gov/pubmed/22762246).  (Interestingly in these reports, hypomagnesaemia resolved surprisingly promptly - only a few days - after PPI withdrawal.)   
+
+
+## What is the mechanism?  
+
+So what is the mechanism?  Is it due to reduced intestinal absorption or increased renal excretion?  We know that the kidney - and in particular the DCT - plays a crucial role in regulating Mg^2+^ homeostasis and that drugs that perturb renal Mg^2^ handling can cause hypomagnesaemia.  Mg^2+^ is re-absorbed through apical `TRPM6` channels in DCT cells - and mutations in this channel cause hypomagnesaemia with secondary hypocalcaemia.  This system is regulated by [epidermal growth factor](https://www.ncbi.nlm.nih.gov/pubmed/17671655) (`EGF`), which binds to basolateral receptors, stimulating TRPM6 activity.  
+
+
+### Effect of anti-cancer therapies, diruretics and CNIs
+
+In oncology, antibody and small-molecule [inhibitors of EGF](https://www.ncbi.nlm.nih.gov/pubmed/20595681) can promote renal Mg^2+^ loss for obvious reasons.  Platinum-based agents - such as [cisplatin](https://www.ncbi.nlm.nih.gov/375794) - can induce profound and very long-lasting renal Mg^2+^ wasting.  This is thought to be due to cisplatin accumulating within, and then killing, tubular cells.    
+
+Although the DCT is responsible for 'fine-tuning' renal Mg^2+^ excretion, the bulk of filtered Mg^2+^ is reabsorbed passively though a [paracellular route](https://www.ncbi.nlm.nih.gov/pubmed/17671646) in the PCT and TALH.  Therefore loop diuretics - which diminish the driving force for this re-absorption - can also cause renal Mg^2+^ wasting.  Tacrolimus can promote renal Mg^2+^ loss by reducing tubular TRPM6 expression *via* a [calcineurin-dependent pathway](https://www.ncbi.nlm.nih.gov/pubmed/31908154).  
+
+
+### Mechanism of PPI-induced hypomagnesaemia
+
+PPIs, on the other hand, do not appear to promote renal Mg^2+^ wasting.  In fact urinary Mg^2+^ excretion is [appropriately reduced](https://www.ncbi.nlm.nih.gov/pubmed/23538697) in cases of PPI-associated hypomagnesaemia.  So the effect is presumably mediated through reduced intestinal absorption but the molecular mechanism has yet to be determined.  The intestinal absorption of Mg^2+^ is predominantly through TRPM6 and TRPM7 channels.  In [heterologous expression systems](https://www.ncbi.nlm.nih.gov/pubmed/16636202), the activity of these channels is pH-dependent, with higher inward currents being observed under acid conditions.  Therefore it seems plausible that PPIs, by promoting an alkaline intestinal environment, might reduce Mg^2+^ absorption.  
+
+<!-- However - some authors propose what appears to be the opposite!  PPIs cause a fall in intestinal pH, which is [thought](https://www.ncbi.nlm.nih.gov/pubmed/23051182) to reduce the affinity of TRPM6/7 channels for Mg^2+^, resulting in reduced intestinal absorption.  -->
+
+<!-- -->

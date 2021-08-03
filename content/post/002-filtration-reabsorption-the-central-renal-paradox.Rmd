@@ -1,0 +1,85 @@
+---
+title: 'Filtration-reabsorption: the central renal paradox'
+author: Robert W Hunter
+date: '2019-11-18'
+slug: filtration-reabsorption-the-central-renal-paradox
+categories:
+  - physiology
+tags:
+  - classic
+  - contemporary
+  - GFR
+  - evolution
+description: 'Why do kidneys work as they do?'
+# featured_image: '/images/waterpipes.jpg'
+featured_image: '/images/lophius.png'
+---
+
+## In this post...
+
+- How the kidney evolved to filter first and reabsorb later  
+- How we came to know how the kidney works in this way  
+
+
+## It is so obvious!
+
+> 'One never notices what has been done; one can only see what remains to be done.'
+>
+> --- Marie Curie 
+
+As facts become established dogma, it becomes almost impossible to conceive of a time when they were not known.  How could we have not known about natural selection before Darwin?  How could we have not known about DNA before Watson and Crick?  How could we ever not have known that infectious diseases are caused by microbes?  It all seems so obvious. 
+
+Similarly, it is difficult to conceive of a time when we did not know that kidneys work on the principle of `filtration-reabsorption`.  Blood is passed through a largely unselective filter in the glomerulus and then substances are selectively reabsorbed from the filtrate as it passes along the renal tubules.  
+
+But this point - which goes to the very core of kidney function - was only appreciated relatively recently.  This is a classic tale of scientific discovery, in which scientists working independently in disparate parts of the world worked gradually towards a universally accepted model.  The twists and turns of this journey are discussed in an excellent [open-access review](https://www.ncbi.nlm.nih.gov/pubmed/25434011) and in [this article](https://www.ncbi.nlm.nih.gov/pubmed/10528689).  
+
+At the beginning of the 20th century, two camps held opposing views on the fundamental mechanism of kidney function.  These views reflected opposing scientific philosophies of the day: [vitalism](https://en.wikipedia.org/wiki/Vitalism) and [mechanism](https://en.wikipedia.org/wiki/Mechanism_(philosophy)).  The `vitalists` held that urine was a product of glandular (tubular) *secretion*: a process powered by some mysterious "vital force".  The `mechanists` argued that the processes of urine formation were governed by physical and chemical laws and therefore could be understood by analysing the material properties of the kidney.  Drawing on the work of early anatomists, Carl Ludwig proposed that urine was formed by the sequential actions of glomerular filtration and tubular reabsorption.  The Scottish Pharmacologist, Arthur Cushny, has been credited with popularising this theory in his 1917 book, 'The Secretion of Urine' - and provoking others to perform a series of experiments to prove or refute this proposition.  
+
+<center>
+![Arthur Cushny](/images/cushny.jpg){width=60%}
+
+</center>
+
+## Is it so obvious?
+
+On the other hand - think about it for more than half a minute and you can see why it is not at all obvious that the kidneys should choose to operate by filtration-reabsorption.  It is a crazy system and one that appears to be deeply inefficient.  
+
+> ‘This circuitous method of operation is peculiar, to say the least.  At the one end, the heart is working hard to pump a large quantity of water out of the body; at the other end the tubules are working equally hard to defeat the heart by keeping 99% of this water from escaping.  Thus heart and kidney are literally pitched in constant battle against each other – our lives depend on neither one of them ever winning out.’
+>
+> --- Homer Smith
+
+Surely this cannot be an efficient system?  The kidneys first filter most of what is in the blood and then expend energy to re-claim ~99% of this.  Why do we expend so much energy excreting and then re-absorbing useful substances?  How on earth did this set-up evolve?  This `paradox` lies at the centre of our understanding of how the kidneys work.  
+
+But let's leave that to one side for a minute and look first at the experiments that proved that the kidneys work in this way.  
+
+
+## Micropuncture and renal clearance
+
+Proof of the filtration-reabsorption hypothesis was obtained through two different experimental approaches that were applied in two fantastically ugly model organisms: the mudpuppy (*Necturus*) and the monkfish (*Lophius*).  
+
+<center>
+![Mudpuppy](/images/necturus.png){width=60%} 
+ 
+ 
+![Monkfish](/images/lophius.png){width=60%}
+ 
+ </center>
+
+Smith & Shannon focussed their attention on an unusual group of animals: the `aglomerular fishes`.  These fish (which include the monkfish and seahorse) [lost their glomeruli](https://www.ncbi.nlm.nih.gov/pubmed/15075177) at some point in their evolution and are thus ideal organisms in which to differentiate glomerular from tubular functions.  Shannon injected simple sugars - such as the plant-derived inulin - into the circulation.  In amphibia and mammals, these sugars are excreted in the urine; in the aglomerular fish, they are not.  This suggested that at least some simple molecules enter the urine through glomerular filtration.  Smith and Shannon went to on develop the method of [renal clearance](https://www.ncbi.nlm.nih.gov/pubmed/15151274), in which the excretion of any substance can be quantified relative to that of a marker substance - such as inulin - that is freely filtered but neither secreted nor re-absorbed by the tubules.  Almost a century later, renal clearance remains central to the assessment of renal function in the lab and the clinic.  
+
+Meanwhile, Wearn & Richards were [developing a method](https://royalsocietypublishing.org/doi/10.1098/rspb.1938.0063) to use tiny "micropipettes" to directly sample fluid from various points along the amphibian renal tubule.  They used frogs and the mudpuppy (*Necturus*) - which has large, relatively straight tubules.  From these experiments they were able to deduce:  
+
+1) that the glomerulus generates a filtrate that is identical in its composition to plasma, with the exception that high-molecular-weight proteins have been retained in the circulation;  
+2) substances (water, salts, glucose) are re-absorbed from this filtrate as it travels along the renal tubule; and  
+3) this tubular transport can be inhibited pharmacologically (including by phlorhizin: a very early version of the SGLT inhibitors that are now being used to treat diabetic kidney disease).  
+
+The development of `renal clearance` and `micropuncture` were seminal events in the history of renal physiology.  Together, they provided compelling evidence to support the filtration-reabsorption hypothesis and they would go on to form the methodological basis for much of what we learned about renal function in the subsequent decades.  We now have sophisticated methods - such as multiphoton microscopy - that actually allow us to [visualise](https://www.ncbi.nlm.nih.gov/pubmed/25738253) glomerular filtration and tubular fluid flow in a living kidney.  
+
+
+## Evolution of filtration-reabsorption
+
+But back to that question that we posed above.  Can we resolve the paradox?  If filtration-reabsorption is so apparently inefficient - then how and why did this system evolve?  [Homer Smith](https://openlibrary.org/books/OL13506034M/From_fish_to_philosopher) argues that this system arose very early on in vertebrate evolution as our [aquatic ancestors](https://en.wikipedia.org/wiki/Ostracoderm) moved from a salt- to a fresh-water environment.  He postulates that a prototypical glomerulus evolved as a means of pumping excess water out of the body in order to defend against the ever-present threat of water influx from a hypotonic external environment.  (It is curious that this system also confers some "side-benefits" that were probably not the primary evolutionary drivers, such as the ability to excrete novel water-soluble toxins for which we have no specific transporters.)
+
+This `water-excreting` kidney was modified throughout the course of evolution with the addition of `water-retaining` capabilities that allowed animals to return to hypertonic marine environments and - of course - to move onto land.  Evolution found diverse solutions to this problem in different environments.  The aglomerular fish lost their glomeruli; the cartilaginous fishes learned how to retain urea; reptiles and birds adopted uric acid as their primary nitrogenous waste product; mammals developed a loop of Henle.  (And in future posts I hope to discuss some of these adaptations in detail...)  With warm-bloodedness came a [rise in blood pressure ](https://www.ncbi.nlm.nih.gov/pubmed/25140012), which drove up glomerular filtration rate and prompted an expansion in the re-absorptive capacity of the renal tubules.  
+
+All of which explains why the mammalian kidney operates a high-flux, filtration-reabsorption system.  

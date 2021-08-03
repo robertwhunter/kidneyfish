@@ -1,0 +1,21 @@
+---
+title: Do I really need to know this?
+author: RWH
+date: '2020-06-11'
+slug: do-i-need-to-know-this
+categories:
+  - overview
+tags: []
+description: 'Why clinicians should know about physiology'
+featured_image: '/images/maths.jpg'
+draft: TRUE
+---
+
+I enjoy teaching and talking about renal physiology.  However there is a point around 20 minutes into every teaching session when I can feel a sense of polite detachment floating ...
+
+Whenever I am in the midst of a teaching session on renal physiology, I am frequently transported back to 
+
+All the things on my slide PLUS - knowing the mechanism gives confidence in it being true (give solute restriction in DI as example).  
+
+Also do a post on the 5 implications of the UOsm equation.  When UOsm is fixed (ADH, furosemide, DI) - then V set by OL.  Move from appendix of nephromaths to blog post and add in DI.  
+
