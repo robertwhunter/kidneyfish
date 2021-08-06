@@ -1,0 +1,59 @@
+---
+title: Oh Mg (part 2)
+author: Robert W Hunter
+date: '2020-07-20'
+slug: magnesium-and-potassium
+categories:
+  - physiology
+tags:
+  - potassium
+  - magnesium
+description: 'How does hypomagnesaemia cause hypokalaemia?'
+featured_image: '/images/Mg.jpg'
+draft: FALSE
+---
+
+
+
+<div id="in-this-post" class="section level2">
+<h2>In this post…</h2>
+<ul>
+<li>Why does low Mg cause low K?<br />
+</li>
+<li>Distal Na and K transport and the transepithelial voltage</li>
+</ul>
+<p>Hypomagnesaemia: easy to find if you go looking for it; usually left well alone. (And often caused by a <a href="/post/ppis-and-magnesium/index.html">drug</a>.)</p>
+<p>But sometimes hypomagnesaemia is worth paying attention to if it is contributing to another electrolyte disorder such as hypocalcaemia or hypokalaemia. It is widely recognised that Mg deficiency can cause refractory hypokalaemia. But what is the mechanism? And why do we need to know?</p>
+</div>
+<div id="why-does-low-mg-cause-low-k" class="section level2">
+<h2>Why does low Mg cause low K?</h2>
+<div id="mechanism-1---romk" class="section level3">
+<h3>Mechanism 1 - ROMK</h3>
+<p>Renal K secretion occurs predominantly through two channels: ROMK (mediating Na/K exchange in the distal nephron) and BK channels (mediating flow-dependent K secretion). <a href="https://pubmed.ncbi.nlm.nih.gov/17804670">Historically</a>, Mg-depletion was thought to cause renal K wasting, predominantly because of its role in modulating ROMK channel function.</p>
+<p>ROMK - like many other K channels - is <a href="https://pubmed.ncbi.nlm.nih.gov/8569061">inwardly-rectifying</a>: that is, it allows K ions to flow into the cell more readily than out of the cell. This seems like an odd property for a channel that is primarily engaged in secreting K into the tubular fluid. So why has it evolved thus?</p>
+<p>To understand why, we should first consider the critical role of the electrical driving force for K transport in the distal nephron. Potassium secretion in the distal nephron is regulated by the transepithelial potential difference (<code>TEPD</code>). This is, in turn, determined by sodium reabsorption through the epithelial sodium channel, ENaC. When sodium reabsorption is stimulated (e.g. by aldosterone), then the TEPD becomes more lumen-negative, favouring K efflux. When sodium reabsorption is inhibited (e.g. by <a href="https://pubmed.ncbi.nlm.nih.gov/943768">amiloride</a>) then the opposite happens: the TEPD becomes positive and K secretion is opposed.</p>
+<p>Let’s take a closer look, by considering the current-voltage relationship for ROMK. As this was classically determined in <em>Xenopus</em> oocytes, current through the channel is usually plotted against <code>transmembrane voltage</code>, V<sub>tm</sub>, the potential difference across the cell membrane. V<sub>tm</sub> is typically negative: the interior of the cell is negative relative to the exterior.</p>
+<p>I usually get confused at this point because of double-negatives. As the TEPD becomes <em>more</em> lumen-negative (e.g. in sodium reabsorption), the V<sub>tm</sub> across the apical cell membrane becomes <em>less</em> negative as the cell-external and cell-internal potentials become closer. So when looking at these I-V plots, we must remember that a progressively <em>negative</em> V<sub>tm</sub> equates to a progressivly <em>less negative</em> (or more positive) TEPD.</p>
+<p>Under normal physiological conditions, K secretion is close to zero in the middle of the normal operating range of the TEPD (<a href="https://pubmed.ncbi.nlm.nih.gov/4010149">around -20 mV</a> in the late distal tubule). Therefore aldosterone - via its effects on ENaC and the TEPD - can exert close control over renal K excretion:</p>
+<p><img src="/images/Mg1.png" style="width:60.0%" /></p>
+<p>In K deficiency, the current-voltage relationship for ROMK <a href="https://pubmed.ncbi.nlm.nih.gov/21030597">shifts to the left</a>, because a low extracellular (tubular) [K<sup>+</sup>] increases the driving force for K efflux:</p>
+<p><img src="/images/Mg2.png" style="width:60.0%" /></p>
+<p>This could have the unfortunate paradoxical effect of driving unwanted K secretion. However, evolution has thoughtfully endowed ROMK with inward rectification in order that K efflux in this context is limited. And what is the mechanism of this effect? Enter Mg<sup>2+</sup>. At positive V<sub>tm</sub>, Mg<sup>2+</sup> ions bind to and <a href="https://pubmed.ncbi.nlm.nih.gov/7915826">block the channel pore</a>. Therefore in profound Mg deficiency, when this property is lost, ROMK channels are left open and K can flood out, exacerbating any pre-existing hypokalaemia:</p>
+<p><img src="/images/Mg3.png" style="width:60.0%" /></p>
+</div>
+<div id="mechanism-2---its-the-dct-stupid" class="section level3">
+<h3>Mechanism 2 - It’s the DCT, stupid!</h3>
+<p>So far, so good. That all makes sense. However, of course we now know that the main tubular player in determining net renal K excretion is not ROMK, but the thiazide-sensitive NaCl co-transporter, NCC. NCC sits in the distal convoluted tubule, <em>upstream</em> of ENaC and ROMK in the collecting ducts. First come, first served and so NCC activity determines the balance between electroneutral (K-sparing) sodium reabsorption and electrogenic (K-wasting) sodium reabsorption because ENaC can only act on whatever sodium NCC leaves behind in the tubular fluid. NCC activity is therefore the knob that homeostatic mechanisms twiddle when attempting to achieve potassium balance. NCC activity (controlled by NCC phosphorylation) is modulated directly in response to changes in K homeostasis (<a href="https://pubmed.ncbi.nlm.nih.gov/23633048" class="uri">https://pubmed.ncbi.nlm.nih.gov/23633048</a>).</p>
+<p>So wouldn’t any mechanism controlling renal K excretion be more likely to affect NCC activity? Well, it appears that this <a href="https://pubmed.ncbi.nlm.nih.gov/31364380">is indeed the case</a>. Usually, K<sup>+</sup> depletion stimulates expression and phosphorylation of NCC, for the reasons outlined immediately above. In the presence of Mg<sup>2+</sup> deficiency however, this response is almost completely abolished (at least in rodents).</p>
+</div>
+</div>
+<div id="summary" class="section level2">
+<h2>Summary</h2>
+<p>Sodium reabsorption and potassium secretion in the distal nephron are inextricably linked through the trans-epithelial potential difference (TEPD). Na<sup>+</sup> reabsorption may be electoneutral (through thiazide-sensitive NCC) or electrogenic (through amiloride-sensitive ENaC). Electrogenic sodium reabsorption generates a lumen-negative TEPD, favouring K<sup>+</sup> secretion through ROMK.</p>
+<p>NCC sits upstream of ENaC and ROMK and therefore determines the balance between electroneutral and electrogenic sodium reabsorption. Accordingly, the physiogical response to perturbations in K<sup>+</sup> homeostasis is directly targeted at NCC.</p>
+<p>In K-deficiency, low luminal [K<sup>+</sup>] would increase the driving force for K<sup>+</sup> secretion, potential exacerbating hypokalaemia. Mg<sup>2+</sup> ions usually block ROMK in this circumstance, preventing excessive K<sup>+</sup> efflux (inward rectification). This effect is lost in Mg deficiency. At the same time, Mg deficiency blocks the NCC activation that is usually observed in K-depletion.</p>
+</div>
+<div id="clinical-implications" class="section level2">
+<h2>Clinical implications</h2>
+<p>The main clinical implication is that one might want to check for - and correct - Mg deficiency in any treatment-refractory hypokalaemia. There is also an implication for how we interpret urinary electrolytes in combined Mg and K deficiency. When faced with hypokalaemia, there is a reflex urge to check urinary [K<sup>+</sup>] and calculate a TTKG. However, in the context of Mg deficiency this could be misleading, because we now know that whatever the initial cause of the K-depletion, there is likely to be urinary K-wasting because of the Mg-deficiency. Better, therefore, to rely on clinical judgement to work out the likely cause and defer any urinary electrolyte testing until after the Mg deficiency has been corrected.</p>
+</div>

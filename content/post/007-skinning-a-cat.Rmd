@@ -1,12 +1,12 @@
 ---
-title: What is the best way to skin a cat?
+title: How to assess free water balance in dysnatraemia
 author: RWH
 date: '2020-06-16'
 slug: skinning-a-cat
 categories:
   - overview
 tags: []
-description: 'How to assess free water balance in dysnatraemias'
+description: 'What is the best way to skin this cat?'
 featured_image: '/images/cat.jpg'
 ---
 
@@ -72,7 +72,7 @@ So here is a broad approach to dysnatraemia (and we're really just talking about
 
 4) Consider - broadly - whether other sources of free water and cation input / output need to be factored in.  Use this to revise any fluid restriction and consider whether salt or protein supplementation is required.  Interpret solute intake in the context of [normal dietary content](/books/NEPHROMATHS/general-approach-to-a-patient-with-electrolyte-disturbance#iv-fluids-electrolyte-supplements).  
 
-<!--
+
 
 Summary:  
 
@@ -81,5 +81,3 @@ Summary:
 ![](/images/EFWB.png){width=100%}
 
 </center>
-
--->

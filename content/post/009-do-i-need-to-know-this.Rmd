@@ -1,7 +1,7 @@
 ---
 title: Do I really need to know this?
 author: RWH
-date: '2020-06-11'
+date: '2020-08-11'
 slug: do-i-need-to-know-this
 categories:
   - overview
@@ -10,6 +10,11 @@ description: 'Why clinicians should know about physiology'
 featured_image: '/images/maths.jpg'
 draft: TRUE
 ---
+
+## In this post...
+
+- How to assess free water balance in the dysnatraemias  
+- How to factor in solute / cation balance 
 
 I enjoy teaching and talking about renal physiology.  However there is a point around 20 minutes into every teaching session when I can feel a sense of polite detachment floating ...
 
