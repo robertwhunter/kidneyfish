@@ -15,7 +15,6 @@ SectionPagesMenu = "main"
 Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-165990856-1"
 enableRobotsTXT = true 
-show_reading_times = true
 
 [sitemap]
   changefreq = "monthly"
@@ -33,6 +32,10 @@ show_reading_times = true
   gitlab = ""
   linkedin = ""
   mastodon = ""
+  
+  ## added Aug 2021
+  site_logo = "images/favicon.ico"
+  show_reading_time = true
   
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   # background_color_class = "bg-black"
