@@ -1,26 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on From Fish To Physician</title>
+    <title>Categories on From Fish to Physician</title>
     <link>https://www.kidneyfish.net/categories/</link>
-    <description>Recent content in Categories on From Fish To Physician</description>
+    <description>Recent content in Categories on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://www.kidneyfish.net/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clinical</title>
-      <link>https://www.kidneyfish.net/categories/clinical/</link>
-      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      <title>physiology</title>
+      <link>https://www.kidneyfish.net/categories/physiology/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/categories/clinical/</guid>
+      <guid>https://www.kidneyfish.net/categories/physiology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Overview</title>
+      <title>overview</title>
       <link>https://www.kidneyfish.net/categories/overview/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -29,11 +26,11 @@
     </item>
     
     <item>
-      <title>Physiology</title>
-      <link>https://www.kidneyfish.net/categories/physiology/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <title>clinical</title>
+      <link>https://www.kidneyfish.net/categories/clinical/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/categories/physiology/</guid>
+      <guid>https://www.kidneyfish.net/categories/clinical/</guid>
       <description></description>
     </item>
     

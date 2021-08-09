@@ -1,0 +1,36 @@
+title: From Fish to Physician
+baseURL: https://www.kidneyfish.net
+languageCode: en-us
+theme: gohugo-theme-ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 8
+googleAnalytics: 'UA-165990856-1'
+enableRobotsTXT: yes
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+params:
+  body_classes: avenir bg-near-white
+  description: A blog about clinically-relevant kidney physiology
+  facebook: ''
+  favicon: /images/favicon.ico # put into static folder
+  featured_image: /images/homepage.jpg
+  github: ''
+  gitlab: ''
+  instagram: ''
+  linkedin: ''
+  mastodon: ''
+  recent_posts_number: 4
+  rss: ''
+  site_logo: /images/favicon.ico
+  slack: ''
+  stackoverflow: ''
+  twitter: https://twitter.com/renalrob
+  youtube: ''
+  show_reading_time: true
+  custom_css: [RWH_kidneyfish.css]
+  env: production
+

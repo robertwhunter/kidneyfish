@@ -1,0 +1,75 @@
+---
+title: Sugar and spice and all things nice
+author: Robert W Hunter
+date: '2019-12-09'
+slug: sugar-and-spice-and-all-things-nice
+categories:
+  - physiology
+tags:
+  - classic
+  - contemporary
+  - sodium
+  - potassium
+description: 'The electrolyte content of the human body'
+featured_image: '/images/salt_spice.jpg'
+#highlight: tango
+---
+
+## In this post...
+
+- Electrolyte-free water clearance can help assess disorders of sodium homeostasis   
+- Potassium supplementation can help in cases of hyponatraemia  
+
+## What are we made of?  
+
+> What are little girls made of?  
+> What are little girls made of?  
+>   Sugar and spice  
+>   And all things nice  
+> That's what little girls are made of  
+>
+> --- Nursery Rhyme  
+
+Well we are not made of sugar and spice - but what *are* we made of?  
+
+Salt!  
+
+Possibly as a consequence of life originating in [freshwater pools](https://www.ncbi.nlm.nih.gov/pubmed/25540145), all living cells contain `potassium` salts in high-abundance.  Conversely - and probably because living things then went on to evolve in the salty primordial ocean - extracellular fluid is rich in `sodium` salts.  Potassium and sodium are therefore the predominant cations in our bodies and our kidneys - the ["master chemists"](https://onlinelibrary.wiley.com/doi/full/10.1002/ar.a.20017) of our internal environment - spend most of their energy controlling K^+^ and Na^+^ homeostasis.  
+
+There is a necessarily intricate relationship between body water, K^+^ and Na^+^.  But how are these substances stored?  How are they inter-related?  Does this change in disease?    
+
+
+## The famous Edelman equation
+
+The first step to addressing these questions is to develop a way to quantify total body water, K^+^ and Na^+^.  In the late 1950s, [Edelman and colleagues](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1062793/) did just this.  They built on the pioneering work of [Hamilton](https://pubmed.ncbi.nlm.nih.gov/16577808/), [de Hevesy](https://www.nobelprize.org/prizes/chemistry/1943/hevesy/lecture/) and others in using radioisotopes to measure the concentration of sodium and other substances in the body.  This "tracer" method was borrowed from hydrology, in which it is said to have been applied [over two millenia ago](https://link.springer.com/article/10.1007/BF02839166).  
+
+Edelman and co-workers injected volunteers with radio-isotopes of water, K^+^ and Na^+^.  They discovered a tight relationship between serum osmolality ($\pi_{s}$) and the pools of *exchangeable* potassium and sodium ($K_{e}$, $Na_{e}$) and total body water (${TBW}$), such that:  
+
+$$\pi_{s} \propto \frac{Na_{e} + K_{e}}{TBW}$$
+
+This relationship is the logical consequence of the fact that - if water can move freely between compartments - plasma osmolality is determined by the sum of all extracellular and intracellular solutes, divided by total body water.  As sodium is the dominant extracellular cation, it follows that plasma [Na^+^] can be determined as:
+
+$$P_{Na} = \frac{Na_{e} + K_{e}}{TBW}$$
+
+Edelman found that these relationships were consistent even in patients with chronic oedematous diseases such as heart failure and cirrhosis.  Other investigators reported that total body sodium increases with age (being closer to 35 mmol per kg BW in younger adults and 40 mmol per kg in older adults) and was significantly higher in [cardiac](https://pubmed.ncbi.nlm.nih.gov/14936190/) or [cirrhotic](https://pubmed.ncbi.nlm.nih.gov/13539212/) oedema (at around 50 -- 60 mmol per kg).  Similarly, this method has been used to show that total body potassium is depleted by up to 20% after [diuretic therapy](https://pubmed.ncbi.nlm.nih.gov/5936697/).  
+
+
+## Clinical implications  
+
+The simple Edelman equation has a number of key implications for our understanding of fluid-electrolyte physiology and for clinical medicine - as explained by Burton Rose in a [classic paper](https://www.ncbi.nlm.nih.gov/pubmed/3799631).   
+
+First, it explains why disorders of plasma sodium concentration are often caused by primary problems with water homeostasis.  Second, it emphasises the need to examine the renal clearance of [*electrolyte-free*](https://www.ncbi.nlm.nih.gov/pubmed/16544174) (rather than *osmolar-free*) water when attempting to investigate the renal contribution to disorders of $P_{Na}$.  Third, it illustrates why depletion of total-body-potassium -- such as may occur following prolonged diarrhoea or diuretic use -- can be an important factor in the pathogenesis of hyponatraemia.  These key principles - arising from a simple experiment over 60 years ago - are still used to guide treatment in the clinic today.  
+
+
+## Sodium in space
+
+But is it that simple?  It never is.  
+
+A layer of added complexity emerged from a [study](https://www.ncbi.nlm.nih.gov/pubmed/12200802) conducted on volunteers working in a terrestrial space station simulator.  
+
+<center>
+![MIR space station](/images/MIR.jpg){width=60%}
+</center>
+
+By meticulously measuring the sodium content of food and urine, Jens Titze and colleagues followed the sodium *balance* in these isolated subjects over more than 100 days.  They discovered that changes in total body sodium could be dissociated from body weight - and by inference from total body water.  This suggested that sodium might be stored in osmotically inactive stores - perhaps in bone, connective tissue or skin.  (In fact this idea was not new as physiologists had discussed skin storage of [sodium](https://www.ncbi.nlm.nih.gov/pubmed/648666) and [glucose](https://www.physiology.org/doi/abs/10.1152/physrev.1929.9.3.399) as long ago as the 1920s.)  Titze's group went on to show that sodium can be stored in an osmotically inactive form in the interstitium of the [skin](https://www.ncbi.nlm.nih.gov/pubmed/19412173).  
+
