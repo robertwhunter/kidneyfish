@@ -13,14 +13,17 @@ draft: TRUE
 
 ## In this post...
 
-- How to assess free water balance in the dysnatraemias  
-- How to factor in solute / cation balance 
+- Why we need to know about renal physiology  
 
 I enjoy teaching and talking about renal physiology.  However there is a point around 20 minutes into every teaching session when I can feel a sense of polite detachment floating ...
 
-Whenever I am in the midst of a teaching session on renal physiology, I am frequently transported back to 
-
 All the things on my slide PLUS - knowing the mechanism gives confidence in it being true (give solute restriction in DI as example).  
 
-Also do a post on the 5 implications of the UOsm equation.  When UOsm is fixed (ADH, furosemide, DI) - then V set by OL.  Move from appendix of nephromaths to blog post and add in DI.  
+THings on slide were:  
+- electrolyte disorders are renal disorders  
+- other people will ask you about this  
+- easy to get confused  
+- dangerous to blindly crunch numbers (prinicples more important )  
+- no RCTs and not likely to be  
+- best bit of renal medicine!  
 

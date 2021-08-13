@@ -18,6 +18,10 @@ draft: TRUE
 - How to assess free water balance in the dysnatraemias  
 - How to factor in solute / cation balance 
 
+Also do a post on the 5 implications of the UOsm equation.  When UOsm is fixed (ADH, furosemide, DI) - then V set by OL.  Move from appendix of nephromaths to blog post and add in DI.  
+
+
+
 # Appendix 2 - corollaries of urine osmolality equation {#app2}
 
 In the [section on urine osmolality](#UOsm), we considered equation \@ref(eq:UOsm2): the relationship between osmolar load, urine volume and urine osmolality.  
