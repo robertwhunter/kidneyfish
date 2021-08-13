@@ -1,35 +1,87 @@
 ---
 title: When is a diuretic not a diuretic?
 author: Robert W Hunter
-date: '2020-11-17'
+date: '2021-08-02'
 slug: nephrogenic-DI
 categories:
   - physiology
 tags:
-  - classic
-  - contemporary
   - water
+  - sodium
+  - drugs
   - diuretics
-description: ''
-featured_image: '/images/coloured_salt.jpg'
-draft: TRUE
+description: 'Approach to nephrogenic DI'
+featured_image: '/images/waterpipes.jpg'
+draft: FALSE
 ---
 
 ## In this post...
 
-- How to assess free water balance in the dysnatraemias  
-- How to factor in solute / cation balance 
+- The paradoxical anti-diuretic effects of diuretics  
+- A general approach to nephrogenic diabetes insipidus  
 
-### Move all this to this thiazide one
+> When is a tractor not a tractor?  
+> ...  
+> When it turns into a field  
 
-## Off-target effects
 
-However, this model is over-simplistic.  One additional factor at play is that thiazide diuretics can exert an "off-target" inhibition of `carbonic anhydrase` in the proximal tubule.  This will inhibit sodium reabsorption through the sodium-bicarbonate exchanger and thus shift sodium re-absorption to the water-impermeable distal tubule, where sodium reabsorption favours water excretion.  
+## Nephrogenic diabetes insipidus  
 
-Hence why...
-...but evidence from NCC null mouse
-...and the prostaglandin story (Glover)
-...
+As nephrologists, we are often asked for advice on how to manage patients with nephrogenic diabetes insipidus (`NDI`).  Almost always, this has been caused by current or historic `lithium` exposure.  
 
+This is one of those referrals that invariably sends me scuttling back to review original literature, because I can never quite remember how on earth diuretics are supposed to magically transform into anti-diuretics in this context, nor the relative merits of thiazides / amiloride / acetazolamide.  
+
+
+## When is a diuretic not a diuretic?    
+
+Thiazide diuretics have been used since the 1960s to reduce urine volumes in patients with NDI.  Not only was this a useful clinical strategy, it also supported the careers of a generation of renal physiologists who were able to write myriad papers speculating on the mechanism.  The [explanation](https://pubmed.ncbi.nlm.nih.gov/15504949) usually invoked thiazide-induced volume depletion, causing enhanced proximal reabsorption of salt and water.  Why this would not then cause anti-diuresis in the millions of patients who take thiazides for hypertension was never satisfactorily explained.  
+
+The most parsimonious explanation for the thiazide effect is that - by inhibiting sodium reabsorption in the water-impermeable DCT (part of the `diluting segment`) - thiazides will [oppose free water generation](/post/diuretics-and-water-one/index.html) in the tubular lumen and so limit urinary free water excretion.  However, as we shall see, this is probably not the whole story.  
+
+
+### How thiazides work  
+
+The field was advanced significantly by an ingenious [experiment in mice](https://pubmed.ncbi.nlm.nih.gov/24352504).  What happens when thiazides are given to mice with NDI, when those mice lack the thiazide-sensitive NaCl co-transporter, NCC?  Curiously, such mice still mount an anti-diuretic response to thiazides, suggesting that any effect is not mediated through the classic thiazide target.  Thiazides are some of the oldest - and so presumably 'dirtiest' - drugs in clinical use; they are known to exert several off-target effects.  One such - `carbonic anhydrase inhibition` - is likely responsible for the anti-diuretic effect in NDI.  In the NCC-knockout experiment, thiazide treatment induced alkalinisation of the urine and reduced expression of NHE3, consistent with carbonic anhydrase inhibition and suppression of proximal tubular Na^+^ reabsorption.  
+
+The majority of filtered Li^+^ is reabsorbed in the proximal tubule - a fact well-known to physiologists who use `fractional excretion of lithium` as a [proxy measure](https://pubmed.ncbi.nlm.nih.gov/2681925) of proximal tubular sodium transport.  So an effect here should have a number of consequences, all observed in mice: reduced blood levels of lithium, increased NaCl delivery to the *macula densa* (detected as reduced urinary PGE~2~) and suppression of GFR by TGF.  Without getting side-tracked too much, an important role for PGE~2~ in regulating urinary water excretion emerged recently from a [genome-wide assocation study](https://pubmed.ncbi.nlm.nih.gov/28783044) in thiazide-associated hyponatraemia.  In thiazide-associated hyponatraemia, enhanced luminal PGE~2~ activity was thought to stimulate AQP2 expression and water reabsorption, exacerbating hyponatraemia.  However, that is because susceptible patients carried a mutation in a prostaglandin transporter that prevented them from diverting PGE~2~ to the basolateral side of the collecting duct, where it would [ordinarily oppose](https://pubmed.ncbi.nlm.nih.gov/29501264) AQP2 expression (i.e. favour a dilute urine).  Therefore, the thiazide-induced reduction in PGE~2~ in NDI might help to treat polyuria - unless of course Li^2+^ exposure changes prostaglandin transport in the collecting duct, which is entirely plausible.  
+
+The PGE~2~ story notwithstanding, none of this should necessarily translate into reduced urine volumes, even if there are obvious clinical implications (e.g. for monitoring of Li^+^ levels).  Instead, the effect on urine volume is likely to come from a direct effect of thiazides on principal cells, where they [are able](https://pubmed.ncbi.nlm.nih.gov/24352504) to reduce Li^+^ uptake (through ENaC) and boost AQP2 expression.  To my knowledge, the mechanism of this effect on principal cells has not been elucidated, and we can speculate that this might be due to [CA inhibition](https://pubmed.ncbi.nlm.nih.gov/26574046) or some PGE~2~ effect.  
+
+### Acetazolamide  
+
+If you need money, go to the bank.  So why use a thiazide for its off-target effects when we could simply go for acetazolamide?  Certainly this has been [used effectively](https://pubmed.ncbi.nlm.nih.gov/27959610) to limit polyuria in NDI.  Like thiazides, in isolated cells and in mice, acetazolamide reduces Li^+^ uptake and [boosts AQP expression](https://pubmed.ncbi.nlm.nih.gov/26574046).  So, acetazolamide is a valid therapeutic option and perhaps the main reason to favour thiazides or amiloride is that we are generally more comforable with prescribing those agents.  
+
+
+### Amiloride
+
+There are also some clinical trial data for amiloride.  In one tiny [open-label trial (n = 9)](https://pubmed.ncbi.nlm.nih.gov/3969096) and [one RCT (n = 11)](https://pubmed.ncbi.nlm.nih.gov/18596116), amiloride therapy resulted in a modest increase in urine osmolality.  In the open-label trial, there was a reduction in 24hr urine volume, an outcome that was bizarrely not reported for the RCT.  
+
+One really attractive feature, is that amiloride [blocks Li^+^ entry](https://pubmed.ncbi.nlm.nih.gov/19367330) - through ENaC - into principal cells.  Given that Li^2+^ uptake by principal cells [causes](21051735) collecting duct remodelling, loss of AQP2 expression - and in fact the whole polyuria phenotype - amiloride strikes at the root cause of the problem.  Of course we don't know whether blocking Li^2+^ uptake by principal cells would also prevent progressive kidney fibrosis on Li^2+^ therapy - but we are highly unlikely to ever know that for certain, given the difficulties in performing clinical trials in this area.  
+
+
+## Approach to NDI  
+
+All this mechanistic pontificating is grist to the mill of an electolyte-minded nephrologist, but of limited use unless we can turn it into a set of practical pointers for the clinic.  
+
+My approach to NDI is as follows - but comes with a prominent disclaimer / caveat: this is **NOT** based on high-quality RCT evidence (because there isn't any).  
+
+### Step 1) = get the basics right (in-patient)
+
+The most important thing is to avoid any iatrogenic water deprivation.  Classically, patients with NDI function very well when left to their own devices.  They will drink copious amounts - often without even realising that they do so.  (Ask the family and they will tell you that they keep a water bottle by their bed and carry one with them wherever they go.)  Disaster only strikes when the patient is admitted to hospital and doctors and nurses try to take over the provision and prescription of water.  Water is never provided in sufficient abundance and so the serum sodium is invariably 165 mM, day 2 post-appendicectomy.  So in a hospitalised patient, the only really critical thing to do is to ensure adequate provision of drinking water - or NG water or IV glucose if the patient cannot drink.  
+
+
+### Step 2) = get the basics right (out-patient)
+
+In the well outpatient, things are a bit different; water supply should not be a problem.  Instead the basics to get right are:  
+
+- in a patient still taking Li^+^, establish if the benefits of Li^+^ outweigh the risks (they usually do)  
+- check a serum calcium (Li^+^ can cause hyperPTH, which in turn could drive polyuria)  
+- ideally confirm and quantify any polyuria with a 24hr collection to measure urine volume (and possibly also solute excretion); this is perhaps most useful as a baseline measure before any intervention  
+- review diet to [avoid excessive solute intake](/post/e-mc-2/index.html)  
+
+
+### Step 3) = the anti-diuretic  
+
+If polyuria is confirmed and it seems sensible to reduce urine volume (e.g. to improve quality of life), then it is reasonable to try an 'anti-diuretic'.  Factor in blood results (if tends to hypoK, favour amiloride; if tends to hyperK, favour thiazide), co-morbidities and likely effect on lithium levels.  If still on lithium and unable to stop this, then there is an argument for amiloride, given its ability to block Li^2+^ uptake by principal cells.  Review the benefits a few weeks after starting - ideally supported with an objective measure of urine volume.  Remember that getting the basics right are much more important, so have a low threshold to bail out if the 'anti-diuretic' is causing problems.  
 
 
