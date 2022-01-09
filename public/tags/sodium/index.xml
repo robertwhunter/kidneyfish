@@ -1,18 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sodium on From Fish to Physician</title>
-    <link>https://www.kidneyfish.net/tags/sodium/</link>
+    <link>/tags/sodium/</link>
     <description>Recent content in sodium on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/tags/sodium/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sodium/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Salt reduction</title>
+      <link>/post/salt-reduction/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/salt-reduction/</guid>
+      <description>In this post…  Summary Clinical pearls   Summary Salt reduction lowers blood pressure and prevents CVD. Ditto K supplementation. More effective at a population than an individual level. Contribution from kidney, vasculature, CNS, immune system - but primacy of pressure natriuresis and the RAAS. Salt preference because salt activates dopaminergic mesolimbic reward pathways.
+ Clinical pearls  units of salt (Big Mac / packet of crisps / 500 ml 0.</description>
+    </item>
+    
     <item>
       <title>The E=mc2 of nephrology</title>
-      <link>https://www.kidneyfish.net/post/e-mc-2/</link>
+      <link>/post/e-mc-2/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/e-mc-2/</guid>
+      <guid>/post/e-mc-2/</guid>
       <description>In this post…  Why drinking seawater causes dehydration
  Why giving 0.9% NaCl can exacerbate hyponatraemia in some circumstances
  How much water do you have to drink to cause hyponatraemia
@@ -23,10 +37,10 @@
     
     <item>
       <title>When is a diuretic not a diuretic?</title>
-      <link>https://www.kidneyfish.net/post/nephrogenic-di/</link>
+      <link>/post/nephrogenic-di/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/nephrogenic-di/</guid>
+      <guid>/post/nephrogenic-di/</guid>
       <description>In this post…  The paradoxical anti-diuretic effects of diuretics
  A general approach to nephrogenic diabetes insipidus   When is a tractor not a tractor?
 …
@@ -36,11 +50,22 @@ This is one of those referrals that invariably sends me scuttling back to review
     </item>
     
     <item>
+      <title>Pan-hypo-electrolytes</title>
+      <link>/post/pan-hypo-electrolytes/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pan-hypo-electrolytes/</guid>
+      <description>In this post…  What to do when everything is low
+ Refeeding syndrome
+ Acquired Bartter syndrome  One referral that is always a bit of a head-scratcher is the patient with low Na, low K, low Mg, low PO4 - what could reasonably be called pan-hypo-electrolytes. This is a pretty common scenario in hospitalised patients - and we’ll come to the differential diagnosis in a subsequent post.</description>
+    </item>
+    
+    <item>
       <title>Terlipressin and hyponatraemia</title>
-      <link>https://www.kidneyfish.net/post/terlipressin-paradox/</link>
+      <link>/post/terlipressin-paradox/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/terlipressin-paradox/</guid>
+      <guid>/post/terlipressin-paradox/</guid>
       <description>In this post…  The evolution of the vasopressin system
  How can one hormone regulate two physiological parameters (tonicity and blood pressure)?
  Why does terlipressin not always cause profound hyponatraemia?   “Thousands have lived without love, not one without water.”
@@ -50,10 +75,10 @@ This is one of those referrals that invariably sends me scuttling back to review
     
     <item>
       <title>Sugar and spice and all things nice</title>
-      <link>https://www.kidneyfish.net/post/sugar-and-spice-and-all-things-nice/</link>
+      <link>/post/sugar-and-spice-and-all-things-nice/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/sugar-and-spice-and-all-things-nice/</guid>
+      <guid>/post/sugar-and-spice-and-all-things-nice/</guid>
       <description>In this post…  Electrolyte-free water clearance can help assess disorders of sodium homeostasis
  Potassium supplementation can help in cases of hyponatraemia   What are we made of?  What are little girls made of?
 What are little girls made of?

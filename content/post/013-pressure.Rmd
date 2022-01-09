@@ -1,0 +1,50 @@
+---
+title: Under pressure
+author: Robert W Hunter
+date: '2022-03-01'
+slug: salt-pearls
+categories:
+  - physiology
+  - clinical
+tags:
+  - blood pressure
+description: 'Why do we have a blood pressure?'
+featured_image: '/images/sphyg.jpg'
+twitterImg: '/images/twittercard.jpg'
+draft: TRUE
+---
+
+## In this post...
+
+- Why we have a blood pressure
+
+
+## Summary
+
+I=V/R
+Q=dP/R
+
+
+Remember Ohm’s law?  (Darcy’s law broadly analogous if talking about pressure and flow in fluids).  
+
+Key driver was evolutionary advantage of higher metabolic rate (high in mammals – can run; higher in birds – can fly!)
+
+Evolution of highish blood pressure – 4 things to consider:
+increased metabolic rate (and endothermy) = need for higher O2 delivery = higher Q
+reduction in capillary size (so can have increased density and better O2 delivery) = higher R ….therefore dP must also increase
+required development of a parallel pulmonary circulation (otherwise tissue oedema limiting gas exchange)
+…and also requirement to overcome gravity (next slide)
+
+
+Dinosaurs and snakes
+
+Everybody remembers Giraffes (MAP 200 – 250 mmHg at heart level c.f. 100 mmHg for most other mammals).  
+
+But snakes also interesting.  
+
+Compare aquatic, terrestrial and arboreal (tree-dwelling) also known as scansorial (climbing) snakes!
+
+Note that tree-climbing snakes have acquired:
+a higher ABP
+ability to regulate ABP to defend against changes in posture (ABP here measured at level of heart) 
+

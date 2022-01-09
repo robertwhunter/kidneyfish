@@ -8,6 +8,7 @@ SectionPagesMenu: main
 Paginate: 8
 googleAnalytics: 'UA-165990856-1'
 enableRobotsTXT: yes
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"] # added Jan 2022
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
@@ -15,21 +16,22 @@ sitemap:
 params:
   body_classes: avenir bg-near-white
   description: A blog about clinically-relevant kidney physiology
-  facebook: ''
+  # facebook: ''
   favicon: /images/favicon.ico # put into static folder
   featured_image: /images/homepage.jpg
-  github: ''
-  gitlab: ''
-  instagram: ''
-  linkedin: ''
-  mastodon: ''
+  # github: ''
+  # gitlab: ''
+  # instagram: ''
+  # linkedin: ''
+  # mastodon: ''
   recent_posts_number: 4
-  rss: ''
+  # rss: ''
   site_logo: /images/favicon.ico
-  slack: ''
-  stackoverflow: ''
+  # slack: ''
+  # stackoverflow: ''
   twitter: https://twitter.com/renalrob
-  youtube: ''
+  twitterAuthor: '@renalrob' # added 2022 - will also need to edit templates - I think themes/gohugo-theme-ananke/layouts/partials/page-header.html?
+  # youtube: ''
   show_reading_time: true
   custom_css: [RWH_kidneyfish.css]
   env: production

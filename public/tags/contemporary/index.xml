@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>contemporary on From Fish to Physician</title>
-    <link>https://www.kidneyfish.net/tags/contemporary/</link>
+    <link>/tags/contemporary/</link>
     <description>Recent content in contemporary on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/tags/contemporary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/contemporary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Should I stop the furosemide?</title>
-      <link>https://www.kidneyfish.net/post/diuretics-and-water-one/</link>
+      <link>/post/diuretics-and-water-one/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/diuretics-and-water-one/</guid>
+      <guid>/post/diuretics-and-water-one/</guid>
       <description>In this post…  What effect do loop diuretics have on renal free water clearance?
  Should we stop furosemide in hyponatraemia?
  Why do we need to restrict water intake when giving furosemide in hyponatraemia?  We are mostly water and rapidly run into trouble when we become under- or over-hydrated. We could argue, therefore, that one of the kidney’s most important jobs is that of maintaining water homeostasis.</description>
@@ -20,10 +24,10 @@
     
     <item>
       <title>Sugar and spice and all things nice</title>
-      <link>https://www.kidneyfish.net/post/sugar-and-spice-and-all-things-nice/</link>
+      <link>/post/sugar-and-spice-and-all-things-nice/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/sugar-and-spice-and-all-things-nice/</guid>
+      <guid>/post/sugar-and-spice-and-all-things-nice/</guid>
       <description>In this post…  Electrolyte-free water clearance can help assess disorders of sodium homeostasis
  Potassium supplementation can help in cases of hyponatraemia   What are we made of?  What are little girls made of?
 What are little girls made of?
@@ -36,10 +40,10 @@ That’s what little girls are made of
     
     <item>
       <title>Filtration-reabsorption: the central renal paradox</title>
-      <link>https://www.kidneyfish.net/post/filtration-reabsorption-the-central-renal-paradox/</link>
+      <link>/post/filtration-reabsorption-the-central-renal-paradox/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/filtration-reabsorption-the-central-renal-paradox/</guid>
+      <guid>/post/filtration-reabsorption-the-central-renal-paradox/</guid>
       <description>In this post…  How the kidney evolved to filter first and reabsorb later
  How we came to know how the kidney works in this way   It is so obvious!  ‘One never notices what has been done; one can only see what remains to be done.’
 — Marie Curie

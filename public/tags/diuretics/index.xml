@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diuretics on From Fish to Physician</title>
-    <link>https://www.kidneyfish.net/tags/diuretics/</link>
+    <link>/tags/diuretics/</link>
     <description>Recent content in diuretics on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/tags/diuretics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diuretics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>The E=mc2 of nephrology</title>
-      <link>https://www.kidneyfish.net/post/e-mc-2/</link>
+      <link>/post/e-mc-2/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/e-mc-2/</guid>
+      <guid>/post/e-mc-2/</guid>
       <description>In this post…  Why drinking seawater causes dehydration
  Why giving 0.9% NaCl can exacerbate hyponatraemia in some circumstances
  How much water do you have to drink to cause hyponatraemia
@@ -23,10 +27,10 @@
     
     <item>
       <title>When is a diuretic not a diuretic?</title>
-      <link>https://www.kidneyfish.net/post/nephrogenic-di/</link>
+      <link>/post/nephrogenic-di/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/nephrogenic-di/</guid>
+      <guid>/post/nephrogenic-di/</guid>
       <description>In this post…  The paradoxical anti-diuretic effects of diuretics
  A general approach to nephrogenic diabetes insipidus   When is a tractor not a tractor?
 …
@@ -37,10 +41,10 @@ This is one of those referrals that invariably sends me scuttling back to review
     
     <item>
       <title>Should I stop the furosemide?</title>
-      <link>https://www.kidneyfish.net/post/diuretics-and-water-one/</link>
+      <link>/post/diuretics-and-water-one/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kidneyfish.net/post/diuretics-and-water-one/</guid>
+      <guid>/post/diuretics-and-water-one/</guid>
       <description>In this post…  What effect do loop diuretics have on renal free water clearance?
  Should we stop furosemide in hyponatraemia?
  Why do we need to restrict water intake when giving furosemide in hyponatraemia?  We are mostly water and rapidly run into trouble when we become under- or over-hydrated. We could argue, therefore, that one of the kidney’s most important jobs is that of maintaining water homeostasis.</description>

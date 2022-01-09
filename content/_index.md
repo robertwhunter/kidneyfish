@@ -8,3 +8,18 @@ Welcome to my blog.  I write about aspects of renal physiology that are relevant
 
 The site is designed to look best on a smartphone.  
 
+<!-- FUTURE POSTS
+
+* 6 uses of amiloride: resistant HTN (RCT Brown Lancat Diab Endo 2016), nephrotic, sodium appetite, Li, HTN in Blacks (Circ 2021), reduced UCa (stone prevention)
+* ABP post - why we have a high one
+* SGLT2i post - mechanism
+* TGF post - analogy with pulmonary circulation? - global control
+* link between glomerular and tubular disease
+* resetting Na taste threshold
+* MALA land
+* Nephrotic oedema
+* 5 curves
+* Nephromaths (update hypoK and Ca)
+
+-->
+

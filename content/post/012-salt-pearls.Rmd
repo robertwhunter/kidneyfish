@@ -1,0 +1,59 @@
+---
+title: Salty pearls
+author: Robert W Hunter
+date: '2022-02-01'
+slug: salt-pearls
+categories:
+  - physiology
+  - clinical
+tags:
+  - sodium
+  - potassium
+  - blood pressure
+description: 'Clinical pearls on salt reduction'
+featured_image: '/images/pearls.jpg'
+twitterImg: '/images/twittercard.jpg'
+draft: TRUE
+---
+
+## In this post...
+
+- Summary
+- Clinical pearls
+ 
+
+## Summary
+
+Salt reduction lowers blood pressure and prevents CVD.  Ditto K supplementation.  More effective at a population than an individual level.  Contribution from kidney, vasculature, CNS, immune system - but primacy of pressure natriuresis and the RAAS.  Salt preference because salt activates dopaminergic mesolimbic reward pathways.  
+
+
+
+
+## Clinical pearls
+
+### The units of salt
+
+100 mmol Na = 2.3 g Na = 6g NaCl
+100 mmol K = 3.9 g K
+
+...and link to nephromaths page for meds etc.  
+
+Recommended daily Na = less than 5 g NaCl = 2 g Na = 86 mmol = 4 packets of crisps or 500 ml 0.9% NaCl or 1 tsp table salt.  
+Na [mainly in](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/sodium-sources) bread, pizza, sandwiches, processed meats, soups.  [Big Mac](https://www.mcdonalds.com/us/en-us/product/big-mac.html) = 1000 mg; packet of crisps = 500 mg.  
+
+Recommended daily K = more than 3.5 g K = 90 mmmol = 7 bananas
+[K content in foods](https://www.dietaryguidelines.gov/food-sources-potassium): baked potato (skin on) = 1000 mg; banana or glass or orange juice = 500 mg.  K [mainly in](https://www.cdc.gov/salt/potassium.htm) in fruit, veg, seafood, dairy.  
+
+
+### Others
+
+- 50 mM Na reduction = 2.0 - 2.5 mmHg drop in ABP; mean is 4 mmHg (c.f. 5 mmHg for a drug)... = 10% RRR in CVS disease  
+- ...but RCTs of short duration and perhaps hard to sustain over weeks (effects smaller over 3 - 6 months+)  - what does this mean in terms of Big Macs?  - plant-based, fresh food better  
+- gradient higher if older, non-white, hypertensive (and probably also  DM - animal studies); salt-sensitivity of ABP in CKD and also slower to re-equilibrate to changes in Na load  
+- K supplementation interventions = 3 mmHg drop in ABP - a thiazide-like effect?  
+- salt-substitutes reduced CVS disease  
+- sodium and calcium transport correlated in the PCT - so sodium reduction should increase PCT Na uptake and PCT Ca uptake (lowering UCa)  
+- can retrain / reset thresholds over weeks / months  
+- eating a healthy diet requires knowledge, time and money - a strong argument for population-level intervention
+- amiloride might help to limit salt intake (read the study - complex!)  
+
