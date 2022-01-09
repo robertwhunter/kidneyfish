@@ -26,7 +26,7 @@ params:
   # mastodon: ''
   recent_posts_number: 4
   # rss: ''
-  site_logo: /images/favicon.ico
+  # site_logo: /images/favicon.ico - REMOVED Jan 2022
   # slack: ''
   # stackoverflow: ''
   twitter: https://twitter.com/renalrob
