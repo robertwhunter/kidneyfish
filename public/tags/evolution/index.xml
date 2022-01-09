@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evolution on From Fish to Physician</title>
-    <link>/tags/evolution/</link>
+    <link>https://www.kidneyfish.net/tags/evolution/</link>
     <description>Recent content in evolution on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terlipressin and hyponatraemia</title>
-      <link>/post/terlipressin-paradox/</link>
+      <link>https://www.kidneyfish.net/post/terlipressin-paradox/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/terlipressin-paradox/</guid>
+      <guid>https://www.kidneyfish.net/post/terlipressin-paradox/</guid>
       <description>In this post…  The evolution of the vasopressin system
  How can one hormone regulate two physiological parameters (tonicity and blood pressure)?
  Why does terlipressin not always cause profound hyponatraemia?   “Thousands have lived without love, not one without water.”
@@ -26,10 +22,10 @@
     
     <item>
       <title>Filtration-reabsorption: the central renal paradox</title>
-      <link>/post/filtration-reabsorption-the-central-renal-paradox/</link>
+      <link>https://www.kidneyfish.net/post/filtration-reabsorption-the-central-renal-paradox/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/filtration-reabsorption-the-central-renal-paradox/</guid>
+      <guid>https://www.kidneyfish.net/post/filtration-reabsorption-the-central-renal-paradox/</guid>
       <description>In this post…  How the kidney evolved to filter first and reabsorb later
  How we came to know how the kidney works in this way   It is so obvious!  ‘One never notices what has been done; one can only see what remains to be done.’
 — Marie Curie

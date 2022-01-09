@@ -1,40 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on From Fish to Physician</title>
-    <link>/categories/</link>
+    <link>https://www.kidneyfish.net/categories/</link>
     <description>Recent content in Categories on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>clinical</title>
-      <link>/categories/clinical/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/clinical/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>physiology</title>
-      <link>/categories/physiology/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <link>https://www.kidneyfish.net/categories/physiology/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/physiology/</guid>
+      <guid>https://www.kidneyfish.net/categories/physiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>overview</title>
-      <link>/categories/overview/</link>
-      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <link>https://www.kidneyfish.net/categories/overview/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/overview/</guid>
+      <guid>https://www.kidneyfish.net/categories/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clinical</title>
+      <link>https://www.kidneyfish.net/categories/clinical/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kidneyfish.net/categories/clinical/</guid>
       <description></description>
     </item>
     

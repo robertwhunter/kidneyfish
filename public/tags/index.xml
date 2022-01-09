@@ -1,112 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on From Fish to Physician</title>
-    <link>/tags/</link>
+    <link>https://www.kidneyfish.net/tags/</link>
     <description>Recent content in Tags on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 13 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blood pressure</title>
-      <link>/tags/blood-pressure/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <title>diuretics</title>
+      <link>https://www.kidneyfish.net/tags/diuretics/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blood-pressure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>potassium</title>
-      <link>/tags/potassium/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/potassium/</guid>
+      <guid>https://www.kidneyfish.net/tags/diuretics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sodium</title>
-      <link>/tags/sodium/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sodium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diuretics</title>
-      <link>/tags/diuretics/</link>
+      <link>https://www.kidneyfish.net/tags/sodium/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/diuretics/</guid>
+      <guid>https://www.kidneyfish.net/tags/sodium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>water</title>
-      <link>/tags/water/</link>
+      <link>https://www.kidneyfish.net/tags/water/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/water/</guid>
+      <guid>https://www.kidneyfish.net/tags/water/</guid>
       <description></description>
     </item>
     
     <item>
       <title>drugs</title>
-      <link>/tags/drugs/</link>
+      <link>https://www.kidneyfish.net/tags/drugs/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/drugs/</guid>
+      <guid>https://www.kidneyfish.net/tags/drugs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>magnesium</title>
-      <link>/tags/magnesium/</link>
+      <link>https://www.kidneyfish.net/tags/magnesium/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/magnesium/</guid>
+      <guid>https://www.kidneyfish.net/tags/magnesium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>potassium</title>
+      <link>https://www.kidneyfish.net/tags/potassium/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kidneyfish.net/tags/potassium/</guid>
       <description></description>
     </item>
     
     <item>
       <title>classic</title>
-      <link>/tags/classic/</link>
+      <link>https://www.kidneyfish.net/tags/classic/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/classic/</guid>
+      <guid>https://www.kidneyfish.net/tags/classic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contemporary</title>
-      <link>/tags/contemporary/</link>
+      <link>https://www.kidneyfish.net/tags/contemporary/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/contemporary/</guid>
+      <guid>https://www.kidneyfish.net/tags/contemporary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evolution</title>
-      <link>/tags/evolution/</link>
+      <link>https://www.kidneyfish.net/tags/evolution/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/evolution/</guid>
+      <guid>https://www.kidneyfish.net/tags/evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GFR</title>
-      <link>/tags/gfr/</link>
+      <link>https://www.kidneyfish.net/tags/gfr/</link>
       <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gfr/</guid>
+      <guid>https://www.kidneyfish.net/tags/gfr/</guid>
       <description></description>
     </item>
     

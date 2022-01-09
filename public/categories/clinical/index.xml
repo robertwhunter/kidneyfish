@@ -1,32 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>clinical on From Fish to Physician</title>
-    <link>/categories/clinical/</link>
+    <link>https://www.kidneyfish.net/categories/clinical/</link>
     <description>Recent content in clinical on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/clinical/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Salt reduction</title>
-      <link>/post/salt-reduction/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/salt-reduction/</guid>
-      <description>In this post…  Summary Clinical pearls   Summary Salt reduction lowers blood pressure and prevents CVD. Ditto K supplementation. More effective at a population than an individual level. Contribution from kidney, vasculature, CNS, immune system - but primacy of pressure natriuresis and the RAAS. Salt preference because salt activates dopaminergic mesolimbic reward pathways.
- Clinical pearls  units of salt (Big Mac / packet of crisps / 500 ml 0.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/categories/clinical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oh Mg (part 1)</title>
-      <link>/post/ppis-and-magnesium/</link>
+      <link>https://www.kidneyfish.net/post/ppis-and-magnesium/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/ppis-and-magnesium/</guid>
+      <guid>https://www.kidneyfish.net/post/ppis-and-magnesium/</guid>
       <description>In this post…  PPIs are associated with hypomagnesaemia
  PPIs reduce intestinal Mg2+ absorption
  diuretics, CNIs and anti-cancer agents promote renal Mg2+ loss   PPIs and Mg We had a referral recently for a case of persistent hypomagnesaemia “? cause”. As is often the case, the patient had been taking a PPI for some years. There was no obvious alternative explanation and FEMg was low - so we blamed this as the likely culprit.</description>
