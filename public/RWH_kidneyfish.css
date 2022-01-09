@@ -1,17 +1,11 @@
 code, .code {
-/*  font-family: serif; 
-    color: white; 
-    background-color: cornflowerblue;
-*/
     font-family: 'Crimson pro', 
                georgia,
                times,
                serif;
-    color: darkblue;
-/*    font-weight: bold; */
+    color: red;
+    font-weight: bold;
     background-color: cornflowerblue;
-/*    color: green;
-    background-color: lightgreen;*/
 /*  border-bottom: 4px solid lightgreen; */
 }
 

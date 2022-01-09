@@ -17,7 +17,7 @@ params:
   body_classes: avenir bg-near-white
   description: A blog about clinically-relevant kidney physiology
   # facebook: ''
-  favicon: /images/favicon.ico # put into static folder
+  # favicon: /images/favicon.ico # put into static folder - REMOVED Jan 2022
   featured_image: /images/homepage.jpg
   # github: ''
   # gitlab: ''
