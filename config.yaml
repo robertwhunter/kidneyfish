@@ -17,7 +17,7 @@ params:
   body_classes: avenir bg-near-white
   description: A blog about clinically-relevant kidney physiology
   # facebook: ''
-  # favicon: /images/favicon.ico # put into static folder - REMOVED Jan 2022
+  favicon: /images/favicon.ico # put into static folder
   featured_image: /images/homepage.jpg
   # github: ''
   # gitlab: ''
@@ -30,9 +30,12 @@ params:
   # slack: ''
   # stackoverflow: ''
   twitter: https://twitter.com/renalrob
-  twitterAuthor: '@renalrob' # added 2022 - will also need to edit templates - I think themes/gohugo-theme-ananke/layouts/partials/page-header.html?
+  twitterAuthor: '@renalrob' # added 2022 - for Twitter cards
+  twitterImg: /images/twittercard.jpg # addedd 2022 - for Twitter cards
   # youtube: ''
   show_reading_time: true
   custom_css: [RWH_kidneyfish.css]
   env: production
-
+  
+# Jan 2022: to add meta codes for Twitter cards, edit themes/gohugo-theme-ananke/layouts/partials/head-additions.html
+# Could also move the MaxJax scripts here - ? with defer
