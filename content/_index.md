@@ -20,6 +20,8 @@ The site is designed to look best on a smartphone.
 * Nephrotic oedema
 * 5 curves
 * Nephromaths (update hypoK and Ca)
+* urinary diversion: acidosis (mechanism of Na and Cl transport in ileum; high Cl content of urine) and also hyperammonaemia (ammonium / urea / urate; urea splitting as organism virulance factor)
+* maths on why plasmalyte K makes sense
 
 -->
 
