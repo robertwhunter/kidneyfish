@@ -1,4 +1,18 @@
+<!-- metadata for twitter cards -->
+
 {{ if .Site.Params.twitterImg }}
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:image" content="https://www.kidneyfish.net{{ ($.Site.Params.twitterImg) }}"/>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://www.kidneyfish.net{{ ($.Site.Params.twitterImg) }}" />
 {{ end }}
+
+
+<!-- scripts for applause button -->
+<meta name="referrer" content="strict-origin"></meta>
+<head>
+<link rel="stylesheet" href="https://unpkg.com/applause-button@3.4.0/dist/applause-button.css"> 
+<script src="https://unpkg.com/applause-button@3.4.0/dist/applause-button.js"></script>
+<!--  <link rel="stylesheet" href="applause-button.css" /> -->
+<!--  <script src="applause-button.js"></script> -->
+</head>
+
+  

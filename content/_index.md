@@ -21,7 +21,10 @@ The site is designed to look best on a smartphone.
 * 5 curves
 * Nephromaths (update hypoK and Ca)
 * urinary diversion: acidosis (mechanism of Na and Cl transport in ileum; high Cl content of urine) and also hyperammonaemia (ammonium / urea / urate; urea splitting as organism virulance factor)
-* maths on why plasmalyte K makes sense
+* maths on why plasmalyte K makes sense...
+...https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3231780/
+...https://pubmed.ncbi.nlm.nih.gov/13367188/
+...https://pubmed.ncbi.nlm.nih.gov/15153580/
 
 -->
 
