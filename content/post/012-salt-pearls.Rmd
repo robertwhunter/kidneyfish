@@ -24,12 +24,12 @@ draft: FALSE
 
 ## Introduction
 
-We (with Matt Bailey and Bean Dhaun) recently wrote a [perspectives article](https://www.nature.com/articles/s41581-021-00533-0) on salt and disease.  This was an entertaining and educational process.  Here I reflect on what I learned while writing the review, giving a little more space to some potentially useful "clinical pearls".  
+We (with Matt Bailey and Bean Dhaun) recently wrote a [perspectives article](https://www.nature.com/articles/s41581-021-00533-0) on salt and disease.  This was an entertaining and educational process.  Here I reflect on what I learned while writing the review, expanding a little on some potentially useful "clinical pearls".  
 
 (As the following is discussed in detail and fully referenced in our paper, I have not inserted many references below.)
 
 
-## Summary
+## Our article in brief
 
 But first, what do we say in our article?  Briefly...
 
@@ -61,7 +61,7 @@ Similarly, we could use the `banana-equivalent` as a unit of potassium intake.  
 
 ### Effect sizes
 
-But what about the second question: how much of an effect will Na^+^ reduction (or K^+^ supplementation) have on cardiovascular risk?  Of course that is a bit of a how-long-is-a-piece-of-string question because there is a continuous relationship between Na^+^ / K^+^ intake and blood pressure.  However, we can perform a back-of-an-envelope calculation, using what we know about the dose-response relationship between Na^+^ and blood pressure, to work out roughly how big a dietary change we would need to make in order to make a sizeable (say 10%) reduction in the relative risk of cardiovascular disease.  
+But what about the second question: how much of an effect will Na^+^ reduction (or K^+^ supplementation) have on cardiovascular risk?  That is a bit of a how-long-is-a-piece-of-string question because there is a continuous relationship between Na^+^ / K^+^ intake and blood pressure.  However, we can perform a back-of-an-envelope calculation, using what we know about the dose-response relationship between Na^+^ and blood pressure, to work out roughly how big a dietary change we would need to make in order to make a sizeable (say 10%) reduction in the relative risk of cardiovascular disease.  
 
 In randomised controlled trials of salt reduction, every 50 mM reduction in daily Na^+^ intake causes a 2.0 -- 2.5 mmHg drop in ABP.  In our sandwich-equivalent units: one sandwich (c. 25 mM) equates to a drop in of ~1 mmHg systolic.  For potassium supplementation, the benefit in RCTs is around 3 mmHg for every 50 mmol daily supplementation; so that one banana (12.5 mM) equates to a ~0.75 mmHg drop in blood pressure.  Therefore, if we were able to cut out around two processed sandwiches from our diet every day and replace these with three bananas, we can expect to realise a ~4 mmHg drop in arterial blood pressure.  This effect size is significiant; it is broadly similar to that seen for a lone anti-hypertensive medication and should cause a ~10% relative reduction in the risk of CVS disease.  (Provided, of course, that these dietary changes are sustained over the long term - which is easier said than done; see below.)  
 
@@ -75,22 +75,26 @@ In general then, one can achieve the twin benefits of sodium reduction and potas
 However, we can offer some hope to individuals wishing to cut their salt intake.  Although transitioning to a low-salt diet is initially tough, there is evidence that `salt-taste thresholds reset` over a period of months, so that low-salt food no longer tastes bland and high-salt food becomes less palatable.  Having previously experienced this after abruptly reducing dietary salt intake, I was intrigued to discover that this phenomenon was characterised [in the 1980s](https://pubmed.ncbi.nlm.nih.gov/6847015/).  
 
 
+## A couple of other clinically-relevant points  
+ 
 ### Salt content of medicines
 
 In hospital, it is alarmingly easy to deliver sodium chloride in vast excess to usual daily intake - let alone minimal physiological requirements.  One 500 ml bag of 0.9% NaCl contains 77 mmol (1.8 g Na), which is just over 2.5 of our sandwhich-equivalents and close to the 2.0 g Na WHO recommended daily intake.  For a table showing the electrolyte content of various medications and IV fluids, see [chapter 3 of *Nephromaths*](https://kidneyfish-nephromaths.netlify.app/general-approach-to-a-patient-with-electrolyte-disturbance.html#iv-fluids-electrolyte-supplements).) 
 
 
-### Doesn't salt restriction help with kidney stones too?  
+### Salt restriction and kidney stones  
 
-Yes, probably (the literature is much smaller than for salt and blood pressure).  It can be helpful to remember the likely tubular mechanism.  Na^+^ and Ca^2+^ transport in the proximal tubule are coupled through the effects of Na^+^ and water reabsorption on the transluminal [Ca^2+^] gradient and through solvent drag.  This explains why hypercalcaemia can be aggravated by volume depletion (high proximal Na^+^ uptake drives Ca^2+^ reabsorption) and why high salt intake can predispose to kidney stones (suppressed proximal Na^+^ uptake limits Ca^2+^ reabsorption).  
+Salt restriction is probably helpful in individuals prone to kidney stones (the literature is much smaller than for salt and blood pressure).  It can be helpful to remember the likely tubular mechanism.  Na^+^ and Ca^2+^ transport in the proximal tubule are coupled through the effects of Na^+^ and water reabsorption on the transluminal [Ca^2+^] gradient and through solvent drag.  This explains why hypercalcaemia can be aggravated by volume depletion (high proximal Na^+^ uptake drives Ca^2+^ reabsorption) and why high salt intake can predispose to kidney stones (suppressed proximal Na^+^ uptake limits Ca^2+^ reabsorption).  
 
 
-## What I still don't understand: how potassium supplementation lowers blood pressure
+## What I still don't understand
+
+### How potassium supplementation lowers blood pressure
 
 K^+^ supplementation reduces blood pressure and K-rich salt substitutes reduce cardiovascular disease in cluster-randomised RCTs.  But what is the mechanism?  This is usually explained as dietary K^+^ inhibiting NCC activity - i.e. inducing a thiazide-like effect.  (And there is some evidence for a direct vasodilatory effect.)  This makes teleological sense if we view NCC as a master gatekeeper of the distal nephron, setting the balance of electroneutral and electrogenic Na^+^ reabsorption to maintain K^+^ homeostasis.  However, exactly how NCC inhibition translates into lower blood pressure is a little murky, in the same way that the mechanism through which thiazides lower blood pressure in the long term is [debated](https://pubmed.ncbi.nlm.nih.gov/19564550/).  
 
 
-## Conclusions
+## Summary
 
 A few "clinical pearls" relating to dietary salt: 
 
