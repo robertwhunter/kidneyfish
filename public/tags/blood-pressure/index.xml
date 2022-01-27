@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blood pressure on From Fish to Physician</title>
-    <link>/tags/blood-pressure/</link>
+    <link>https://www.kidneyfish.net/tags/blood-pressure/</link>
     <description>Recent content in blood pressure on From Fish to Physician</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/blood-pressure/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.kidneyfish.net/tags/blood-pressure/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Salt reduction</title>
-      <link>/post/salt-reduction/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <title>Dietary salt: clinical pearls</title>
+      <link>https://www.kidneyfish.net/post/salt-pearls/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/salt-reduction/</guid>
-      <description>In this post…  Summary Clinical pearls   Summary Salt reduction lowers blood pressure and prevents CVD. Ditto K supplementation. More effective at a population than an individual level. Contribution from kidney, vasculature, CNS, immune system - but primacy of pressure natriuresis and the RAAS. Salt preference because salt activates dopaminergic mesolimbic reward pathways.
- Clinical pearls  units of salt (Big Mac / packet of crisps / 500 ml 0.</description>
+      <guid>https://www.kidneyfish.net/post/salt-pearls/</guid>
+      <description>In this post…  A summary of our recent salt review paper “Clinical pearls” relating to salt   Introduction We (with Matt Bailey and Bean Dhaun) recently wrote a perspectives article on salt and disease. This was an entertaining and educational process. Here I reflect on what I learned while writing the review, giving a little more space to some of potentially useful “clinical pearls”.
+(As the following is discussed in detail and fully referenced in our paper, I have not inserted many references below.</description>
     </item>
     
   </channel>
