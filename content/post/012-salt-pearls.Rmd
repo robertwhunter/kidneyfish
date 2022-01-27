@@ -18,13 +18,13 @@ draft: FALSE
 
 ## In this post...
 
-- A summary of our recent salt review paper
-- "Clinical pearls" relating to salt
+- A summary of our recent salt perspectives paper
+- A few "clinical pearls" relating to salt
 
 
 ## Introduction
 
-We (with Matt Bailey and Bean Dhaun) recently wrote a [perspectives article](https://www.nature.com/articles/s41581-021-00533-0) on salt and disease.  This was an entertaining and educational process.  Here I reflect on what I learned while writing the review, giving a little more space to some of potentially useful "clinical pearls".  
+We (with Matt Bailey and Bean Dhaun) recently wrote a [perspectives article](https://www.nature.com/articles/s41581-021-00533-0) on salt and disease.  This was an entertaining and educational process.  Here I reflect on what I learned while writing the review, giving a little more space to some potentially useful "clinical pearls".  
 
 (As the following is discussed in detail and fully referenced in our paper, I have not inserted many references below.)
 
@@ -42,12 +42,12 @@ How does high salt intake cause hypertension?  This is complex; there are contri
 
 ### The units of salt are confusing
 
-If I were contemplating changing my diet to reduce my risk of cardiovascular disease then I would want to know two things:  
+The main thing that I learned - or rather was reminded of - was that the units of salt are confusing and unintuitive.  This is annoying because if I were contemplating changing my diet to reduce my risk of cardiovascular disease then I would want to know two things:  
 
 1) how much less salt do I need to eat?  
 2) how much will this reduce my risk of stroke and heart attack?  
 
-We do know the answers to both of these questions, but unfortunately it can be really hard to extract this information in a helpful way from a literature that flits between grams NaCl, grams Na and mmoles.  We need first to know how to interconvert these units (100 mmol Na = 2.3 g Na = 6g NaCl), and how to put them into some sort of meaningful context.  
+We can answer both questions, but unfortunately it can be hard to extract this information from a literature that flits between grams NaCl, grams Na and mmoles.  We need first to know how to interconvert these units (100 mmol Na = 2.3 g Na = 6g NaCl), and how to put them into some sort of meaningful context.  
 
 
 ### How much salt do we eat?
@@ -56,7 +56,7 @@ Most dietary salt is consumed "hidden" in processed foods that are perhaps not i
 
 So wouldn't it be better if we talked about salt in terms of "shop-bought-sandwich-equivalents" rather than g or mmol?  In these terms, the recommended daily intake of Na^+^ (less than 5 g NaCl / 2 g Na^+^ / 86 mmol) equates to around ~3 `sandwich-equivalents`.  The global average daily intake is significantly higher than that at ~7 sandwich-equivalents.  
 
-Similarly, we could use the `banana-equivalent` as a unit of potassium intake.  Bananas are usually cited as a high-K food although of course there is nothing particularly special about bananas; K^+^ content [is high for most](https://www.cdc.gov/salt/potassium.htm) fruit, veg, seafood and dairy.  A [baked potato (skin on)](https://www.dietaryguidelines.gov/food-sources-potassium) = 1000 mg; a banana or glass of orange juice = 500 mg.  Therefore the recommended daily intake of K^+^ (more than 3.5 g K^+^ / 90 mmmol) equates to at least 7 banana-equivalents.
+Similarly, we could use the `banana-equivalent` as a unit of potassium intake.  Bananas are usually cited as a high-K food although of course there is nothing particularly special about bananas; K^+^ content [is high](https://www.cdc.gov/salt/potassium.htm) for most fruit, veg, seafood and dairy.  A [baked potato (skin on)](https://www.dietaryguidelines.gov/food-sources-potassium) = 1000 mg; a banana or glass of orange juice = 500 mg.  Therefore the recommended daily intake of K^+^ (more than 3.5 g K^+^ / 90 mmmol) equates to at least 7 banana-equivalents.
 
 
 ### Effect sizes
@@ -80,14 +80,14 @@ However, we can offer some hope to individuals wishing to cut their salt intake.
 In hospital, it is alarmingly easy to deliver sodium chloride in vast excess to usual daily intake - let alone minimal physiological requirements.  One 500 ml bag of 0.9% NaCl contains 77 mmol (1.8 g Na), which is just over 2.5 of our sandwhich-equivalents and close to the 2.0 g Na WHO recommended daily intake.  For a table showing the electrolyte content of various medications and IV fluids, see [chapter 3 of *Nephromaths*](https://kidneyfish-nephromaths.netlify.app/general-approach-to-a-patient-with-electrolyte-disturbance.html#iv-fluids-electrolyte-supplements).) 
 
 
-### How does potassium supplementation work?
-
-K^+^ supplementation reduces blood pressure and K-rich salt substitutes reduce cardiovascular disease in cluster-randomised RCTs.  But what is the mechanism?  This is usually explained as dietary K^+^ inhibiting NCC activity - i.e. inducing a thiazide-like effect.  This makes teleological sense if we view NCC as a master gatekeeper of the distal nephron, setting the balance of electroneutral and electrogenic Na^+^ reabsorption to maintain K^+^ homeostasis.  However I'm never entirely sure why all that Na^+^ that is no longer reabsorbed through NCC on a high-K diet is not then hoovered up by ENaC downstream...
-
-
 ### Doesn't salt restriction help with kidney stones too?  
 
 Yes, probably (the literature is much smaller than for salt and blood pressure).  It can be helpful to remember the likely tubular mechanism.  Na^+^ and Ca^2+^ transport in the proximal tubule are coupled through the effects of Na^+^ and water reabsorption on the transluminal [Ca^2+^] gradient and through solvent drag.  This explains why hypercalcaemia can be aggravated by volume depletion (high proximal Na^+^ uptake drives Ca^2+^ reabsorption) and why high salt intake can predispose to kidney stones (suppressed proximal Na^+^ uptake limits Ca^2+^ reabsorption).  
+
+
+## What I still don't understand: how potassium supplementation lowers blood pressure
+
+K^+^ supplementation reduces blood pressure and K-rich salt substitutes reduce cardiovascular disease in cluster-randomised RCTs.  But what is the mechanism?  This is usually explained as dietary K^+^ inhibiting NCC activity - i.e. inducing a thiazide-like effect.  (And there is some evidence for a direct vasodilatory effect.)  This makes teleological sense if we view NCC as a master gatekeeper of the distal nephron, setting the balance of electroneutral and electrogenic Na^+^ reabsorption to maintain K^+^ homeostasis.  However, exactly how NCC inhibition translates into lower blood pressure is a little murky, in the same way that the mechanism through which thiazides lower blood pressure in the long term is [debated](https://pubmed.ncbi.nlm.nih.gov/19564550/).  
 
 
 ## Conclusions
@@ -103,5 +103,5 @@ A few "clinical pearls" relating to dietary salt:
 
 - after switching to a lower-sodium diet, salt taste thresholds reset over a few months (so worth persevering!)  
 
-- salt restriction can also be helpful in preventing kidney stones (at lesat in individuals predisposed to form calcium-containing kidney stones)  
+- salt restriction can also be helpful in preventing kidney stones, at least in individuals predisposed to form calcium-containing kidney stones  
 
