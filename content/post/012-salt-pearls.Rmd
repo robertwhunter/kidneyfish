@@ -1,7 +1,7 @@
 ---
 title: 'Dietary salt: clinical pearls' 
 author: Robert W Hunter
-date: '2022-02-01'
+date: '2022-01-28'
 slug: salt-pearls
 categories:
   - physiology
@@ -13,7 +13,7 @@ tags:
 description: 'What I learned from writing a review on salt'
 featured_image: '/images/pearls.jpg'
 twitterImg: '/images/twittercard.jpg'
-draft: TRUE
+draft: FALSE
 ---
 
 ## In this post...
@@ -24,25 +24,21 @@ draft: TRUE
 
 ## Introduction
 
-We (with Matt Bailey and Bean Dhaun) recently wrote a [review article](INSERT LINK) on salt and disease.  This was an entertaining and highly educational process; I learnt loads!  
+We (with Matt Bailey and Bean Dhaun) recently wrote a [perspectives article](https://www.nature.com/articles/s41581-021-00533-0) on salt and disease.  This was an entertaining and educational process.  Here I reflect on what I learned while writing the review, giving a little more space to some of potentially useful "clinical pearls".  
 
-Here I reflect on what I learned when writing the review and try to distill out the most useful "clinical pearls" relating to salt.  
-
-As all of the following is discussed in detail and fully referenced in our paper, I have not inserted references below.
+(As the following is discussed in detail and fully referenced in our paper, I have not inserted many references below.)
 
 
 ## Summary
 
-But first, what do we say in our review?  Briefly...
+But first, what do we say in our article?  Briefly...
 
-Salt (NaCl) reduction lowers blood pressure and prevents cardiovascular disease. Ditto K supplementation.  
+Salt (NaCl) reduction lowers blood pressure and prevents cardiovascular disease. Ditto potassium supplementation.  Humans exhibit a strong preference for dietary salt because salt activates dopaminergic mesolimbic reward pathways.  This drive - plus socioeconomic barriers to salt reduction - mean that salt reduction interventions are arguably more effective on a population than an individual level.  
 
-Humans exhibit a strong preference for dietary salt because salt activates dopaminergic mesolimbic reward pathways.  This drive - plus several socioeconomic barriers to salt reduction - mean that salt reduction interventions have been arguably more effective at a population than an individual level.  
-
-How does high salt intake cause hypertension?  This is complex; there is a contribution from kidney, vasculature, CNS and the immune system.  We discuss the key roles of pressure natriuresis and the renin-angiotensin-aldosterone system (RAAS).  
+How does high salt intake cause hypertension?  This is complex; there are contributions from kidney, vasculature, CNS and the immune system.  In particular, we discuss the key roles of pressure natriuresis and the renin-angiotensin-aldosterone system (RAAS).  
 
 
-## Clinical pearls
+## Clinical pearls: what I learned while writing this review
 
 ### The units of salt are confusing
 
@@ -51,40 +47,61 @@ If I were contemplating changing my diet to reduce my risk of cardiovascular dis
 1) how much less salt do I need to eat?  
 2) how much will this reduce my risk of stroke and heart attack?  
 
-We know the answers to both of these questions, but unfortunately it can be really hard to extract this information in a meaningful way from a literature that flits between grams NaCl, grams Na and mmoles.  We need first to know how to interconvert these units, and how to put them into some sort of meaningful context.  
-
-For sodium, the unit equivalents are as follows: 100 mmol Na = 2.3 g Na = 6g NaCl.  To put these in context, a [Big Mac](https://www.mcdonalds.com/us/en-us/product/big-mac.html) = 1000 mg Na; [Chicken sandwhich](https://www.sainsburys.co.uk/gol-ui/product/sandwiches-and-wraps/sainsburys-chicken-salad-sandwich) = 600 mg Na; packet of crisps = 500 mg Na.  And for a table showing the electrolyte content of various medications and IV fluids, see [chapter 3 of *Nephromaths*](INSERT LINK). 
-
-For potassium: 100 mmol K = 3.9 g K.  [K content in foods](https://www.dietaryguidelines.gov/food-sources-potassium): baked potato (skin on) = 1000 mg; banana or glass or orange juice = 500 mg.  K [mainly in](https://www.cdc.gov/salt/potassium.htm) in fruit, veg, seafood, dairy. 
-
-The context is important because the units we usually use (g and mmoles) are not easy for us to understand intuitively.  Wouldn't it be better to measure salt in "bags-of-crisps" equivalents?  Or even better - as most dietary salt is consumed "hidden" in processed foods that are perhaps not immediately perceived as salty [(bread, pizza, sandwiches, processed meats, soups...)](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/sodium-sources) -  we could use the "commerically-prepared-sandwhich-equivalent" as our standard unit of salt.  This equates to approximately 666 mg sodium.  Similarly, we could use the "banana-equivalent" as our standard unit of potassium (c. 500 mg).  
+We do know the answers to both of these questions, but unfortunately it can be really hard to extract this information in a helpful way from a literature that flits between grams NaCl, grams Na and mmoles.  We need first to know how to interconvert these units (100 mmol Na = 2.3 g Na = 6g NaCl), and how to put them into some sort of meaningful context.  
 
 
-Therefore, recommended daily Na = less than 5 g NaCl = 2 g Na = 86 mmol = 4 packets of crisps or 500 ml 0.9% NaCl or 1 tsp table salt.  
+### How much salt do we eat?
 
-Therefore, recommended daily K = more than 3.5 g K = 90 mmmol = 7 bananas.
- 
- 
+Most dietary salt is consumed "hidden" in processed foods that are perhaps not immediately perceived as salty [(bread, pizza, sandwiches, processed meats, soups...)](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/sodium-sources).   A [Big Mac](https://www.mcdonalds.com/us/en-us/product/big-mac.html) contains ~1000 mg Na^+^; [a shop-bought sandwhich](https://www.sainsburys.co.uk/gol-ui/product/sandwiches-and-wraps/sainsburys-chicken-salad-sandwich) contains ~666 mg Na^+^; a packet of crisps contains ~500 mg Na^+^.   
+
+So wouldn't it be better if we talked about salt in terms of "shop-bought-sandwich-equivalents" rather than g or mmol?  In these terms, the recommended daily intake of Na^+^ (less than 5 g NaCl / 2 g Na^+^ / 86 mmol) equates to around ~3 `sandwich-equivalents`.  The global average daily intake is significantly higher than that at ~7 sandwich-equivalents.  
+
+Similarly, we could use the `banana-equivalent` as a unit of potassium intake.  Bananas are usually cited as a high-K food although of course there is nothing particularly special about bananas; K^+^ content [is high for most](https://www.cdc.gov/salt/potassium.htm) fruit, veg, seafood and dairy.  A [baked potato (skin on)](https://www.dietaryguidelines.gov/food-sources-potassium) = 1000 mg; a banana or glass of orange juice = 500 mg.  Therefore the recommended daily intake of K^+^ (more than 3.5 g K^+^ / 90 mmmol) equates to at least 7 banana-equivalents.
 
 
 ### Effect sizes
 
-If I were contemplating changing my diet to improve my cardiovascular health, I would want to know how much of an impact I could make on my risk of stroke or heart attack, and how many packets of crisps I would have to swap for bananas to achieve this. 
+But what about the second question: how much of an effect will Na^+^ reduction (or K^+^ supplementation) have on cardiovascular risk?  Of course that is a bit of a how-long-is-a-piece-of-string question because there is a continuous relationship between Na^+^ / K^+^ intake and blood pressure.  However, we can perform a back-of-an-envelope calculation, using what we know about the dose-response relationship between Na^+^ and blood pressure, to work out roughly how big a dietary change we would need to make in order to make a sizeable (say 10%) reduction in the relative risk of cardiovascular disease.  
 
-- 50 mM Na reduction = 2.0 - 2.5 mmHg drop in ABP; mean is 4 mmHg (c.f. 5 mmHg for a drug)... = 10% RRR in CVS disease  
+In randomised controlled trials of salt reduction, every 50 mM reduction in daily Na^+^ intake causes a 2.0 -- 2.5 mmHg drop in ABP.  In our sandwich-equivalent units: one sandwich (c. 25 mM) equates to a drop in of ~1 mmHg systolic.  For potassium supplementation, the benefit in RCTs is around 3 mmHg for every 50 mmol daily supplementation; so that one banana (12.5 mM) equates to a ~0.75 mmHg drop in blood pressure.  Therefore, if we were able to cut out around two processed sandwiches from our diet every day and replace these with three bananas, we can expect to realise a ~4 mmHg drop in arterial blood pressure.  This effect size is significiant; it is broadly similar to that seen for a lone anti-hypertensive medication and should cause a ~10% relative reduction in the risk of CVS disease.  (Provided, of course, that these dietary changes are sustained over the long term - which is easier said than done; see below.)  
 
-- ...but RCTs of short duration and perhaps hard to sustain over weeks (effects smaller over 3 - 6 months+)  - what does this mean in terms of Big Macs?  - plant-based, fresh food better  
+Some individuals stand to gain more from this sort of dietary change, because their blood pressure will be `more sensitive` to dietary salt.  This is likely to be the case for individuals who are older, non-white, hypertensive and who have diabetes mellitus or kidney disease.  
 
-- gradient higher if older, non-white, hypertensive (and probably also  DM - animal studies); salt-sensitivity of ABP in CKD and also slower to re-equilibrate to changes in Na load  
 
-- K supplementation interventions = 3 mmHg drop in ABP (for 50 mmol supplementation) - a thiazide-like effect?  
+### Making dietary changes is hard
 
-- salt-substitutes reduced CVS disease  
+In general then, one can achieve the twin benefits of sodium reduction and potassium supplementation by switching from processed foods to a fresh, mainly plant-based diet.  However, this is a difficult thing to do because we have a strong inherent `salt preference`, because most people are exposed to a diet in which sodium is present in an abundance that far outweighs physiological need and because making this sort of dietary change requires time, effort, knowledge and money.  (In our article we mention the 2013 JAMA paper looking at concordance with a 'DASH diet' in different socioeconomic groups.  Uptake of a low-Na, high-K DASH diet was highest in those groups with higher income and educational attainment.)  For these reasons, we argue there is a strong case for making interventions at a population-wide / societal level.  
 
-- sodium and calcium transport correlated in the PCT - so sodium reduction should increase PCT Na uptake and PCT Ca uptake (lowering UCa)  
+However, we can offer some hope to individuals wishing to cut their salt intake.  Although transitioning to a low-salt diet is initially tough, there is evidence that `salt-taste thresholds reset` over a period of months, so that low-salt food no longer tastes bland and high-salt food becomes less palatable.  Having previously experienced this after abruptly reducing dietary salt intake, I was intrigued to discover that this phenomenon was characterised [in the 1980s](https://pubmed.ncbi.nlm.nih.gov/6847015/).  
 
-- can retrain / reset thresholds over weeks / months  
 
-- eating a healthy diet requires knowledge, time and money - a strong argument for population-level intervention
+### Salt content of medicines
 
-- amiloride might help to limit salt intake (read the study - complex!)  
+In hospital, it is alarmingly easy to deliver sodium chloride in vast excess to usual daily intake - let alone minimal physiological requirements.  One 500 ml bag of 0.9% NaCl contains 77 mmol (1.8 g Na), which is just over 2.5 of our sandwhich-equivalents and close to the 2.0 g Na WHO recommended daily intake.  For a table showing the electrolyte content of various medications and IV fluids, see [chapter 3 of *Nephromaths*](https://kidneyfish-nephromaths.netlify.app/general-approach-to-a-patient-with-electrolyte-disturbance.html#iv-fluids-electrolyte-supplements).) 
+
+
+### How does potassium supplementation work?
+
+K^+^ supplementation reduces blood pressure and K-rich salt substitutes reduce cardiovascular disease in cluster-randomised RCTs.  But what is the mechanism?  This is usually explained as dietary K^+^ inhibiting NCC activity - i.e. inducing a thiazide-like effect.  This makes teleological sense if we view NCC as a master gatekeeper of the distal nephron, setting the balance of electroneutral and electrogenic Na^+^ reabsorption to maintain K^+^ homeostasis.  However I'm never entirely sure why all that Na^+^ that is no longer reabsorbed through NCC on a high-K diet is not then hoovered up by ENaC downstream...
+
+
+### Doesn't salt restriction help with kidney stones too?  
+
+Yes, probably (the literature is much smaller than for salt and blood pressure).  It can be helpful to remember the likely tubular mechanism.  Na^+^ and Ca^2+^ transport in the proximal tubule are coupled through the effects of Na^+^ and water reabsorption on the transluminal [Ca^2+^] gradient and through solvent drag.  This explains why hypercalcaemia can be aggravated by volume depletion (high proximal Na^+^ uptake drives Ca^2+^ reabsorption) and why high salt intake can predispose to kidney stones (suppressed proximal Na^+^ uptake limits Ca^2+^ reabsorption).  
+
+
+## Conclusions
+
+A few "clinical pearls" relating to dietary salt: 
+
+- switching from processed foods to a fresh, mainly plant-based diet will help to reduce sodium intake and increase potassium intake, with beneficial effects on cardiovascular health  
+
+- making a sustained dietary change equivalent to the loss of two processed sandwiches and gain of three bananas every day can be expected to cause a drop of ~4 mmHg drop in arterial blood pressure...  
+- ...which is an effect size broadly similar to that of a lone anti-hypertensive medication and expected to provide a ~10% relative reduction in the risk of CVS disease  
+
+- adherance to a low-sodium, high-potassium diet requires effort, time, knowledge and money  
+
+- after switching to a lower-sodium diet, salt taste thresholds reset over a few months (so worth persevering!)  
+
+- salt restriction can also be helpful in preventing kidney stones (at lesat in individuals predisposed to form calcium-containing kidney stones)  
+
