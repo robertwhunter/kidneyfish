@@ -1,0 +1,27 @@
+---
+title: Seeing clearly through the murk
+author: Robert W Hunter
+date: '2022-08-01'
+slug: fluid-status
+categories:
+  - clinical
+tags:
+  - fluids
+description: 'How to approach the fluid-status examination'
+featured_image: ''
+twitterImg: '/images/twittercard.jpg'
+draft: TRUE
+---
+
+## In this post...
+
+- Physical signs in the fluid status examination are unreliable  
+- How to acheive clarity in a sea of uncertainty  
+
+
+## The post  
+
+-  Use Bayesian approach (Hx of CHF increases likelihood of CHF - ditto for dialysis patient missing two sessions or week of vomiting etc.; can use objective data (e.g. weights) to build up good pre-test probability; signs may be unreliable but help to refine the pre-test probability.  Know which signs are most reliable and how to elicit them (e.g. timings for postural signs.)
+-  Know how to think about fluid compartments. Avoid “extracellular overload but intravascular deplete”. Also avoid EABV (too nebulous). Instead ask is fluid disproportionately outside vascular space because of venodilaation or leaking…. Most of these patients are volume expanded.  That picture of the septic cheek. Splanchnic nerve Barnes cat.
+-  Do look at JVP (CVP) but understand its limitations. All of the things that determine CVP - hence why not simply reporting volume; value at extremes (JVP < 1 or > 10).
+-  Look properly for oedema and quantify. Even useful when "negative" (the dog who barked).

@@ -18,6 +18,8 @@ draft: TRUE
 
 - Why we have a blood pressure
 
+Need to look at notes (and figures) from 2022 slides.  
+
 
 ## Summary
 
@@ -47,4 +49,6 @@ Compare aquatic, terrestrial and arboreal (tree-dwelling) also known as scansori
 Note that tree-climbing snakes have acquired:
 a higher ABP
 ability to regulate ABP to defend against changes in posture (ABP here measured at level of heart) 
+
+NB Also blog post (?Miller) arguing that this is all to support glomerular filtration.  
 
