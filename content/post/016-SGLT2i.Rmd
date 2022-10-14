@@ -1,0 +1,25 @@
+---
+title: Positive feedback    
+author: Robert W Hunter
+date: '2022-09-01'
+slug: fluid-status
+categories:
+  - clinical
+tags:
+  - fluids
+description: 'How do SGLT2i work?'
+featured_image: ''
+twitterImg: '/images/twittercard.jpg'
+draft: TRUE
+---
+
+## In this post...
+
+- Brenner hypothesis  
+- TGF and GTB curves  
+- How SGLT2i work  
+
+## The post  
+
+See Credence trial.  
+Possibly separate TGF post?
