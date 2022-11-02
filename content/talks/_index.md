@@ -4,7 +4,13 @@ featured_image: "/images/lecture.jpg"
 title: Talks
 ---
 
-Some slidesets from recent talks (am slowly migrating talks to this site):  
+Some slidesets from recent talks (am slowly migrating talks to this site).  When the slides are loaded, press 'p' to see presenter notes which usually have additional / explanatory information.  (Can also press 'o' for an overview of all slides.)  
+
+<br>
+
+Talks:  
+
+- [Applying for funding](https://renalrob-talk-funding.netlify.app/): RCPE Introduction to Research Course (Nov 2022)  
 
 - [Hypokalaemia in the receiving unit](https://renalrob-talk-k24.netlify.app/): talk at Medicine24 (Nov 2022)  
 
