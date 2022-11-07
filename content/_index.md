@@ -7,6 +7,7 @@ title: From Fish To Physician
 Welcome to my blog.  I write about aspects of renal physiology that are relevant to clinical medicine.  For an explanation of the title and a summary of the aims of this blog see [my first post](/post/first-post/index.html).  
 
 <br>
+
 I also use this site to host [eBooks](/ebooks/index.html) and [slidesets from talks](/talks/index.html).  
 
 <!-- FUTURE POSTS
