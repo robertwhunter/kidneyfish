@@ -4,7 +4,10 @@ featured_image: "/images/lecture.jpg"
 title: Talks
 ---
 
-Some slidesets from recent talks (am slowly migrating talks to this site).  When the slides are loaded, press 'p' to see presenter notes which usually have additional / explanatory information.  (Can also press 'o' for an overview of all slides.)  
+Some slidesets from recent talks (am slowly migrating talks to this site).  
+
+<br>
+When the slides are loaded, press 'p' to see presenter notes with additional / explanatory information.  (Can also press 'o' for an overview of all slides.)  
 
 <br>
 
