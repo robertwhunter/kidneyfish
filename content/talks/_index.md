@@ -16,7 +16,7 @@ Talks:
 
 - [Renal QI](https://renalrob-talks.netlify.app/22_gim): interesting cases for GIM teaching (May 2022 - updated Jan 2023)
 
-- [Better biomarkers](https://renalrob-talks.app/22_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Nov 2022)  
+- [Better biomarkers](https://renalrob-talks.netlify.app/22_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Nov 2022)  
 
 - [Applying for funding](https://renalrob-talks.netlify.app/22_funding): RCPE Introduction to Research Course (Nov 2022)  
 
