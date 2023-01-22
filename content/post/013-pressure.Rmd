@@ -20,6 +20,12 @@ draft: TRUE
 
 Need to look at notes (and figures) from 2022 slides.  
 
+Main point is that we can either have low-pressure, low-resistance system or high-P, high-R and we have the latter because:
+
+i) physical constraints on R
+ii) need for GFR
+iii) allows shunting in parallel bed
+
 
 ## Summary
 

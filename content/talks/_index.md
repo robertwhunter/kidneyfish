@@ -14,6 +14,8 @@ When the slides are loaded, press 'p' to see presenter notes with additional / e
 
 Talks:  
 
+- [Renal QI](https://renalrob-talk-qi22.netlify.app/): interesting cases for GIM teaching (May 2022 - updated Jan 2023)
+
 - [Better biomarkers](https://renalrob-talk-biomarker.netlify.app/): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Nov 2022)  
 
 - [Applying for funding](https://renalrob-talk-funding.netlify.app/): RCPE Introduction to Research Course (Nov 2022)  
@@ -21,8 +23,6 @@ Talks:
 - [Hypokalaemia in the receiving unit](https://renalrob-talk-k24.netlify.app/): talk at Medicine24 (Nov 2022)  
 
 - [GP update](https://renalrob-talk-gp22.netlify.app/): update for primary care: what is new in renal medicine? (Sep 2022)  
-
-- [Renal QI](https://renalrob-talk-qi22.netlify.app/): interesting cases for GIM teaching (May 2022)
 
 - [PLEX in vasculitis](https://renalrob-talk-plex21.netlify.app/): role of plasma exchange in ANCA vasculitis (Nov 2021)
 
