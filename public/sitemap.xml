@@ -2,17 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kidneyfish.net/tags/blood-pressure/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <loc>https://www.kidneyfish.net/post/tonic/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kidneyfish.net/categories/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.kidneyfish.net/categories/clinical/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kidneyfish.net/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kidneyfish.net/categories/physiology/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kidneyfish.net/tags/sodium/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kidneyfish.net/tags/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kidneyfish.net/tags/urea/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.kidneyfish.net/tags/blood-pressure/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -22,27 +52,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.kidneyfish.net/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kidneyfish.net/categories/physiology/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://www.kidneyfish.net/tags/potassium/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kidneyfish.net/tags/sodium/</loc>
-    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.kidneyfish.net/tags/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

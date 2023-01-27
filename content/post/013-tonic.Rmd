@@ -1,0 +1,116 @@
+---
+title: A tonic for hyponatraemia
+author: Robert W Hunter
+date: '2023-01-27'
+slug: tonic
+categories:
+  - physiology
+  - clinical
+tags:
+  - sodium
+  - urea
+description: 'Solute supplementation in hyponatraemia'
+featured_image: '/images/tonic.jpg'
+twitterImg: '/images/twittercard.jpg'
+draft: FALSE
+---
+
+## In this post...
+
+- The etymology of "tonic".    
+- Is urea an effective osmole?  
+- The anatomy of the EFWC equation.  
+- How do NaCl supplements help in hyponatraemia?  
+
+<br>
+
+> tonic, adj. and n. 
+>
+> 2. Medicine, etc. Having the property of increasing or restoring the tone or healthy condition and activity of the system or organs; strengthening, invigorating, bracing. (Of remedies or remedial treatment, and hence of air, climate, etc.) 
+>
+> Etymology: Greek of or for stretching  
+>
+> --- OED
+ 
+<br>
+ 
+## A tonic for hyponatraemia
+
+The [etymology](https://en.wiktionary.org/wiki/tonic#:~:text=Rhymes%3A%20%2D%C9%92n%C9%AAk-,Etymology%201,in%20the%20late%2018th%20century.) of `tonic` to mean a medicine stems from the 17th century belief that healthy people had nice, firmly-stretched muscles.  
+
+Given that `tonicity` - the capacity of a fluid to influence cell stretch or cell volume - shares this etymology, it may be fair to say that the medicines that can most legitimately be termed "tonics" are solute supplements prescribed to restore extracellular tonicity in hyponatraemia.  Two solutes that are prescribed with this intention in SiADH are urea and sodium chloride.  
+
+But how do these work?  This is classic [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) medicine.  At first glance it is obvious: giving sodium supplements to correct a low sodium level ought to work.  Then we learn a little more: hyponatraemia is a problem of water excess - not sodium deficiency - so giving sodium supplements ought not to work.  Then we learn about [electrolyte-free water balance, monovalent cation balance etc.](https://doi.org/10.3389/fmed.2018.00103) and it all becomes very confusing... 
+
+<br>
+<br>
+
+## Urea
+
+Understanding how urea works as a treatment for chronic hyponatraemia can get tricky, because we encounter the issue of whether urea is an `effective` or an `ineffctive osmole`.   Confusion arises because it is variably effective in different contexts.  
+
+Hyponatraemia is problematic when it is a sign of low plasma tonicity, as this may cause brain swelling.  The [tonicity](https://kidneyfish-nephromaths.netlify.app/basic-concepts.html#general-principles) of a fluid is defined as its ability to induce osmotic water shifts across a semi-permeable membrane.  It is therefore determined by *both* the osmolar content of the fluid and the properties of that semi-permeable membrane.  Substances that cannot freely cross the membrane - and are therefore able to generate osmolar gradients - are termed `effective osmoles`.  The degree to which a solute is an effective osmole is sometimes measured as a `reflection coefficient`, ranging from 0 (solute crosses the membrane freely) to 1 (solute cannot cross the membrane).  For any given solute, this value may differ for different membranes; the classic example being urea.  Urea is hydrophobic and therefore unable to cross pure lipid bilayers, but has a variable reflection coefficient as urea transporter expression varies between tissues.  (See elegent experiments following radiolabelled urea distribution in rodents, as discussed by [Halperin and colleagues](https://pubmed.ncbi.nlm.nih.gov/8712203/).)  
+
+With respect to the cell membrane, sodium and potassium are effective osmoles.  Their plasma concentrations are important in setting plasma tonicity.  Ethanol is an [ineffective osmole](https://doi.org/10.1016/j.kint.2020.03.006): it can contribute to measured plasma osmolality but - as it freely crosses the cell membrane - does not influence plasma tonicity.  
+
+Urea is a little more complicated, as we shall see.  There are three important membranes to consider:  
+
+i) The cell membrane in `skeletal muscle`.  Urea is an ineffective osmole, rapidly equilibrating across the cell membrane (reflection coefficient \~ 0), presumably through [UT-B](https://link.springer.com/article/10.1007/s00424-019-02323-x) transporters.  This means that plasma [urea] is **not** an important determinant of plasma tonicity, and is therefore omitted from expressions estimating plasma sodium (i.e. the Edelman equation):  
+
+$$P_{Na} = \frac{Na_{e} + K_{e}}{TBW}$$
+
+*...where Na~(e)~ and K~(e)~ are exchangeable sodium and potassium and TBW is total body water.* 
+
+<br>
+
+ii) The `blood-brain barrier`.  Urea is a [partially effective osmole](https://pubmed.ncbi.nlm.nih.gov/8712203/) (reflection coefficient \~0.5), equilibrating over a period of several hours.  This means that rapid reductions in plasma [urea] can induce cerebral oedema - as in dialysis dysequilibrium.  (And was the rationale for the historical practice of using intravenous urea to [treat cerebral oedema](https://doi.org/10.1038/ki.2014.320).)  
+
+<br>
+
+iii) The `distal nephron`.  Urea is an effective osmole in [the cortical and outer medullary collecting ducts](https://pubmed.ncbi.nlm.nih.gov/31851974/), and is therefore able to enhance water excretion, by pulling water into the tubular lumen.  Hence why oral urea supplements can be effective in treating SiADH.  
+
+<br>
+
+## Anatomy of the EFWC equation
+
+To better appreciate how the movement of urea contributes to systemic water homeostasis, it can be helpful to take a close look at the equation describing electrolyte-free water clearance, EFWC:  
+
+<!-- \begin{equation} -->
+<!--   EFWC \approx\frac{OL}{U_{Osm}}\times(1-\frac{U_{Na}+U_{K}}{P_{Na}}) -->
+<!-- \end{equation} -->
+
+$$EFWC \approx{V}\times(1-\frac{U_{Na}+U_{K}}{P_{Na}})$$
+As urea freely crosses the cell membrane in skeletal muscle, and therefore does not exert an effect on plasma tonicity, [Burton Rose](https://pubmed.ncbi.nlm.nih.gov/3799631/) argues that it should not be included when calculating EFWC.  It is the sum of the monovalent cations (Na^+^ and K^+^) that will determine the distribution of water across the muscle cell membrane, and so it is the renal disposal of Na^+^ and K^+^ that is important in determining free water excretion.  Urea does not, therefore, appear in the expression estimating EFWC.  
+
+Or does it?
+
+Sometimes this equation is re-written as:  
+
+$$EFWC \approx\frac{OL}{U_{Osm}}\times(1-\frac{U_{Na}+U_{K}}{P_{Na}})$$
+
+So why has urea (a key determinant of total urinary osmolarity, U~Osm~) crept back in?
+
+The first term: $\frac{OL}{U_{Osm}}$ is V, urine volume.  This tells us that when U~Osm~ is fixed - as it is in SiADH (fixed high U~Osm~), diabetes insipidus ([fixed low U~Osm~](/post/nephrogenic-DI/index.html)) or loop diuretic use (fixed middling U~Osm~) - then the urine volume will be determined by the osmolar load (OL).  As urea acts as an effective osmole in the cortical collecting ducts - and can drive an osmotic diuresis - it is appropriate to include urea in this part of the equation (as a constituent of OL and U~Osm~).  
+
+When considering the right-hand side of the the EFWC equation, it can be helpful to think of the first term, $\frac{OL}{U_{Osm}}$, as describing the `quantity` of urine.  This is the bit that can be influence by osmolar load (when U~Osm~ is fixed) or by ADH (which will set U~Osm~).  
+
+Think of the second term, $(1-\frac{U_{Na}+U_{K}}{P_{Na}})$ as describing the `quality` of the urine, with respect to free water content.  If the [urine:plasma electrolyte ratio](/post/skinning-a-cat/index.html) is low then the urine contains a lot of free water; if it is high then it contains little, or even negative quantities of, free water.  It is this bit that can be influenced by loop diuretics, which will tend to [set U~Na~ + U~K~ at /~ 100 mM](/post/diuretics-and-water-one/index.html).  
+
+Net free water excretion is a product of urine quantity and quality.  
+
+<br>
+<br>
+
+## Prescribing solutes in hyponatraemia
+
+So how does all of that help to understand how solute supplementation can help in hyponatraemia?  (And here, let us presume we are talking about SiADH.  Clearly solute supplementation is likely to be helpful in hypovolaemic hyponatraemia and unhelpful in volume-overload.)  
+
+Prescribing urea will deliver an augmented osmolar load, increasing free water clearance by increasing urine volume.  This will only be helpful if there is a degree of free water clearance (i.e. appropriate "quality" of urine, as determined by the urine:plasma electrolyte ratio).  
+
+Prescribing sodium chloride (or potassium chloride) will act in similar fashion by delivering an osmolar load.  It will also work by increasing monovalent cation balance, as per the Edelman equation.  
+
+Typically, urea is prescibed at ~15 -- 30g (250 -- 500 mOsm) per day.  To provide an equivalent osmolar load, NaCl supplements would need to be delivered at an unpalatable dose of 7 -- 15 g per day.  (NB One tablet of "slow sodium" contains 600 mg of modified-release NaCl, so a conventional dose of two tablets tds = 3.6 g per day would deliver a rather pathetic 125 mOsm.)  In practice they are usually prescribed at these lower doses, alongside a loop diuretic.  
+
+Perhaps more attractive alternative strategies include dietetic review aimed at increasing protein, sodium, potassium and other solute intake or the use of [SGLT2i](https://pubmed.ncbi.nlm.nih.gov/36396331/) to drive an osmotic diuresis.  
+
+
