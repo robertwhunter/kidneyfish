@@ -28,7 +28,7 @@ So the proverb goes.  But that is only because whoever came up with the proverb 
 
 Let's say we have a patient with hyponatraemia in whom we have requested urinary electrolytes.  We think they have SIADH and would like to institute a fluid restriction.  What is the best way to set a limit on daily water intake -- and how can we gauge if additional measures are likely to be required (urea, furosemide, hypertonic saline etc.)?
 
-Let's run though the options.  (The discussion that follows here will stick to the broad principles involved.  For details, see the [water and sodium pages](/books/NEPHROMATHS/water-and-sodium) of "Nephromaths".)  
+Let's run though the options.  (The discussion that follows here will stick to the broad principles involved.  For details, see the [water and sodium pages](https://kidneyfish-nephromaths.netlify.app/water-and-sodium) of "Nephromaths".)  
 
 All methods of addressing this question are in some way derived from the The Edelman equation:  
 
@@ -55,7 +55,7 @@ The methods in option 3) can provide a meticulous quantitative assessment of fre
 
 ## So what is the answer?!
 
-All of these approaches can only ever hope to be semi-quantitative at the bedside -- not least because so many of the inputs and output variables are unknown or tricky to measure.  For this reason, I prefer starting with the urine:plasma electrolyte ratio.  This is quick and easy to calculate and ostentatiously does not *attempt* to give a precise result.  We can quickly determine whether any fluid restriction needs to be [severe, middling or relaxed](/books/NEPHROMATHS/water-and-sodium#free-water-clearance).  We make sweeping assumptions about unmeasurable free water balance and cation intake -- but this is okay so long as we acknowledge these and "fudge" the result to account for obvious violations.  (For example, we might decide to give supplemental salts or protein in patients who are eating a carbohydrate-rich "tea and toast" diet or we might liberalise any water restriction in patients who are receiving intravenous electrolyte infusions.)  
+All of these approaches can only ever hope to be semi-quantitative at the bedside -- not least because so many of the inputs and output variables are unknown or tricky to measure.  For this reason, I prefer starting with the urine:plasma electrolyte ratio.  This is quick and easy to calculate and ostentatiously does not *attempt* to give a precise result.  We can quickly determine whether any fluid restriction needs to be [severe, middling or relaxed](https://kidneyfish-nephromaths.netlify.app/water-and-sodium#free-water-clearance).  We make sweeping assumptions about unmeasurable free water balance and cation intake -- but this is okay so long as we acknowledge these and "fudge" the result to account for obvious violations.  (For example, we might decide to give supplemental salts or protein in patients who are eating a carbohydrate-rich "tea and toast" diet or we might liberalise any water restriction in patients who are receiving intravenous electrolyte infusions.)  
 
 For most patients, the urine:plasma electrolyte ratio provide a useful starting point - and thereafter therapy can be revised in response to a trend in plasma sodium.  (If a 1.5L water restriction only held plasma sodium static for 24 hours at 120 mM then cut the allowance to 1.0L per day for the next 24 hours.)  The other approaches can offer a "sense-check" or an alternative approach in tricky cases.  
 
@@ -66,14 +66,14 @@ So here is a broad approach to dysnatraemia (and we're really just talking about
 
 1) Make a clinical diagnosis (history, volume status) - and be predominantly guided by that.  (In Bayseian terms, use clinical judgment to set a "prior" diagnosis and then modify this as the results of any invesigations trickle in.)  
 
-2) Check UOsm and UNa - and interpret as [here](/books/NEPHROMATHS/water-and-sodium#hyponatraemia).  Often helpful in diagnosing the *cause* of hyponatraemia.  
+2) Check UOsm and UNa - and interpret as [here](https://kidneyfish-nephromaths.netlify.app/water-and-sodium#hyponatraemia).  Often helpful in diagnosing the *cause* of hyponatraemia.  
 
-3) Calculate the urine:plasma electrolyte ratio - and interpret as [here](/books/NEPHROMATHS/water-and-sodium#free-water-clearance).  Often useful to set an approximate starting water restriction (e.g. in SIADH).  
+3) Calculate the urine:plasma electrolyte ratio - and interpret as [here](https://kidneyfish-nephromaths.netlify.app/water-and-sodium#free-water-clearance).  Often useful to set an approximate starting water restriction (e.g. in SIADH).  
 
-4) Consider - broadly - whether other sources of free water and cation input / output need to be factored in.  Use this to revise any fluid restriction and consider whether salt or protein supplementation is required.  Interpret solute intake in the context of [normal dietary content](/books/NEPHROMATHS/general-approach-to-a-patient-with-electrolyte-disturbance#iv-fluids-electrolyte-supplements).  
+4) Consider - broadly - whether other sources of free water and cation input / output need to be factored in.  Use this to revise any fluid restriction and consider whether salt or protein supplementation is required.  Interpret solute intake in the context of [normal dietary content](https://kidneyfish-nephromaths.netlify.app/general-approach-to-a-patient-with-electrolyte-disturbance#iv-fluids-electrolyte-supplements).  
 
 
-
+<!--
 Summary:  
 
 <center>
@@ -81,3 +81,5 @@ Summary:
 ![](/images/EFWB.png){width=100%}
 
 </center>
+
+-->
