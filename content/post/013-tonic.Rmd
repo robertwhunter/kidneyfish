@@ -55,7 +55,7 @@ With respect to the cell membrane, sodium and potassium are effective osmoles.  
 
 Urea is a little more complicated, as we shall see.  There are three important membranes to consider:  
 
-i) The cell membrane in `skeletal muscle`.  Urea is an ineffective osmole, rapidly equilibrating across the cell membrane (reflection coefficient \~ 0), presumably through [UT-B](https://link.springer.com/article/10.1007/s00424-019-02323-x) transporters.  This means that plasma \[urea\] is **not** an important determinant of plasma tonicity, and is therefore omitted from expressions estimating plasma sodium (i.e. the [Edelman](/post/ugar-and-spice-and-all-things-nice/index.html)) equation):  
+i) The cell membrane in `skeletal muscle`.  Urea is an ineffective osmole, rapidly equilibrating across the cell membrane (reflection coefficient \~ 0), presumably through [UT-B](https://link.springer.com/article/10.1007/s00424-019-02323-x) transporters.  This means that plasma urea concentration is **not** an important determinant of plasma tonicity, and is therefore omitted from expressions estimating plasma sodium (i.e. the [Edelman](/post/ugar-and-spice-and-all-things-nice/index.html)) equation):  
 
 $$P_{Na} = \frac{Na_{e} + K_{e}}{TBW}$$
 
@@ -63,7 +63,7 @@ $$P_{Na} = \frac{Na_{e} + K_{e}}{TBW}$$
 
 <br>
 
-ii) The `blood-brain barrier`.  Urea is a [partially effective osmole](https://pubmed.ncbi.nlm.nih.gov/8712203/) (reflection coefficient \~0.5), equilibrating over a period of several hours.  This means that rapid reductions in plasma [urea] can induce cerebral oedema - as in dialysis dysequilibrium.  (And was the rationale for the historical practice of using intravenous urea to [treat cerebral oedema](https://doi.org/10.1038/ki.2014.320).)  
+ii) The `blood-brain barrier`.  Urea is a [partially effective osmole](https://pubmed.ncbi.nlm.nih.gov/8712203/) (reflection coefficient \~0.5), equilibrating over a period of several hours.  This means that rapid reductions in plasma urea concentration can induce cerebral oedema - as in dialysis dysequilibrium.  (And was the rationale for the historical practice of using intravenous urea to [treat cerebral oedema](https://doi.org/10.1038/ki.2014.320).)  
 
 <br>
 
