@@ -14,7 +14,7 @@ When the slides are loaded, press 'p' to see presenter notes with additional / e
 
 Talks:  
 
-- [Hyponatraemia](https:://renalrob-talks.netlify.app/23_Na): hyponatraemia teaching for renal SpRs (Feb 2023)  
+- [Hyponatraemia](https://renalrob-talks.netlify.app/23_Na): hyponatraemia teaching for renal SpRs (Feb 2023)  
 
 - [Renal QI](https://renalrob-talks.netlify.app/22_gim): interesting cases for GIM teaching (May 2022 - updated Jan 2023)  
 
