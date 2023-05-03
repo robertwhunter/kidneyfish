@@ -14,6 +14,12 @@ When the slides are loaded, press 'p' to see presenter notes with additional / e
 
 Talks:  
 
+- [Principles of acid-base](https://renalrob-talks.netlify.app/23_UCL_acid): for UCL Applied Renal Physiology Course (2023)
+
+- [Hypernatraemia](https://renalrob-talks.netlify.app/23_UCL_hyperNa): for UCL Applied Renal Physiology Course (2023)
+
+- [Hyperkalaemia](https://renalrob-talks.netlify.app/23_UCL_hyperK): for UCL Applied Renal Physiology Course (2023)
+
 - [Hyponatraemia: advanced concepts](https://renalrob-talks.netlify.app/23_Na_full): hyponatraemia teaching for renal SpRs (Mar 2023)  
 
 - [Renal QI](https://renalrob-talks.netlify.app/22_gim): interesting cases for GIM teaching (May 2022 - updated Jan 2023)  
