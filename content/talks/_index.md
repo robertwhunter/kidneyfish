@@ -14,6 +14,8 @@ When the slides are loaded, press 'p' to see presenter notes with additional / e
 
 Talks:  
 
+- [How to assess kidney disease](https://renalrob-talks.netlify.app/23_FY1): FY1 lunchtime teaching (2023)
+
 - [Principles of acid-base](https://renalrob-talks.netlify.app/23_UCL_acid): for UCL Applied Renal Physiology Course (2023)
 
 - [Hypernatraemia](https://renalrob-talks.netlify.app/23_UCL_hyperNa): for UCL Applied Renal Physiology Course (2023)
