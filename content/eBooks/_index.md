@@ -10,6 +10,10 @@ Here are a couple of eBooks.  They should be easy to read on a smartphone.  They
 
 [LATINART](https://kidneyfish-latinart.netlify.app/): a list of **LA**ndmark **T**rials **I**n **N**ephrology **A**nd **R**enal **T**ransplant.  
 
+<br>
+<br>
+
+And see also an [interactive educational app](https://kidneyfish.shinyapps.io/davenport_plot/) for interpreting blood gases.  
 
 <!-- Here is a webpage with links to resources that might be useful when [reading a scientific paper](/books/How_to_read_a_paper.html). -->
 

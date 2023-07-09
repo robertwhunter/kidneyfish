@@ -14,6 +14,8 @@ When the slides are loaded, press 'p' to see presenter notes with additional / e
 
 Talks:  
 
+- [Acid-base cases](https://renalrob-talks.netlify.app/23_CMT_acid): for renal FY/CMT teaching (2023)
+
 - [How to assess kidney disease](https://renalrob-talks.netlify.app/23_FY1): FY1 lunchtime teaching (2023)
 
 - [Principles of acid-base](https://renalrob-talks.netlify.app/23_UCL_acid): for UCL Applied Renal Physiology Course (2023)
