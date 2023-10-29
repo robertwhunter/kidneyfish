@@ -4,15 +4,13 @@ featured_image: "/images/lecture.jpg"
 title: Talks
 ---
 
-Some slidesets from recent talks (am slowly migrating talks to this site).  
-
-<br>
-
-When the slides are loaded, press 'p' to see presenter notes with additional / explanatory information.  (Can also press 'o' for an overview of all slides.)  
+Some slidesets from recent talks.  When the slides are loaded, press 'p' to see presenter notes with additional / explanatory information; press 'o' for an overview of all slides.  
 
 <br>
 
 Talks:  
+
+- [Better biomarkers](https://renalrob-talks.netlify.app/23_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2023)  
 
 - [Kidney disease in the elderly](https://renalrob-talks.netlify.app/23_MOE): for MOE SpR teaching (2023)
 
@@ -29,8 +27,6 @@ Talks:
 - [Hyponatraemia: advanced concepts](https://renalrob-talks.netlify.app/23_Na_full): hyponatraemia teaching for renal SpRs (Mar 2023)  
 
 - [Renal QI](https://renalrob-talks.netlify.app/22_gim): interesting cases for GIM teaching (May 2022 - updated Jan 2023)  
-
-- [Better biomarkers](https://renalrob-talks.netlify.app/22_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Nov 2022)  
 
 - [Applying for funding](https://renalrob-talks.netlify.app/22_funding): RCPE Introduction to Research Course (Nov 2022)  
 
