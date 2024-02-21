@@ -10,6 +10,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 Talks:  
 
+- [Hypertension](https://renalrob-talks.netlify.app/24_HTN): for MBChB Year 1 Knowledge to Clinical Practice (Feb 2024)  
+
 - [Better biomarkers](https://renalrob-talks.netlify.app/23_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2023)  
 
 - [Kidney disease in the elderly](https://renalrob-talks.netlify.app/23_MOE): for MOE SpR teaching (2023)
