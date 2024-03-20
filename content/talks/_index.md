@@ -10,6 +10,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 Talks:  
 
+- [Tubulopathies](https://renalrob-talks.netlify.app/24_tubule): talk at RCPE Joint Renal Diabetes Symposium (Mar 2024)  
+
 - [Hypertension](https://renalrob-talks.netlify.app/24_HTN): for MBChB Year 1 Knowledge to Clinical Practice (Feb 2024)  
 
 - [Better biomarkers](https://renalrob-talks.netlify.app/23_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2023)  
