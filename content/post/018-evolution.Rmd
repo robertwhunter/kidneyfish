@@ -1,0 +1,40 @@
+---
+title: Finding our inner fish  
+author: Robert W Hunter
+date: '2024-04-29'
+slug: under-pressure
+categories:
+  - physiology
+tags:
+  - evolution  
+  - acid-base  
+  - sodium  
+description: 'Evolutionary aspects of renal physiology'
+featured_image: '/images/sphyg.jpg'
+twitterImg: '/images/twittercard.jpg'
+draft: TRUE
+---
+
+## In this post...
+
+- How our kidneys have been shaped by evolution  
+- How we retain ancient mechanisms to defend against acidosis  
+
+
+## Notes
+
+For some nice phylogenetic trees of vertebrate evolution see:  
+
+- https://evolution.berkeley.edu/teach-resources/vertebrate-phylogeny-with-characters/  
+- https://evolution.berkeley.edu/teach-resources/vertebrate-phylogeny-with-time/  
+- https://organismalbio.biosci.gatech.edu/biodiversity/animals-vertebrates-1-2019/  
+
+...and see also papers in my folder: Papers/Basic Science/Physiology/Evolution  
+
+Need to put in context of geological scale  
+
+May need to combine or annotate these to form one perfect master-image!  
+
+Ammonigenesis retained in PCTs - is the simplest of the nitrogenous compounds  
+
+Re-read evolution of ABP paper and also 2024 Nat Rev Urology article  
