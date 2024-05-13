@@ -10,6 +10,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 Talks:  
 
+- [How to assess kidney disease](https://renalrob-talks.netlify.app/24_FY1): FY1 lunchtime teaching (2024)  
+
 - [Principles of acid-base](https://renalrob-talks.netlify.app/24_UCL_acid): for UCL Applied Renal Physiology Course (2024) - see also a slightly longer version in 2023  
 
 - [RTA](https://renalrob-talks.netlify.app/24_ANC): talk at Advanced Nephrology Course, Oxford (April 2024)  
@@ -23,8 +25,6 @@ Talks:
 - [Kidney disease in the elderly](https://renalrob-talks.netlify.app/23_MOE): for MOE SpR teaching (2023)
 
 - [Acid-base cases](https://renalrob-talks.netlify.app/23_CMT_acid): for renal FY/CMT teaching (2023)
-
-- [How to assess kidney disease](https://renalrob-talks.netlify.app/23_FY1): FY1 lunchtime teaching (2023)
 
 - [Principles of acid-base](https://renalrob-talks.netlify.app/23_UCL_acid): for UCL Applied Renal Physiology Course (2023)
 
