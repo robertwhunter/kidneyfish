@@ -10,6 +10,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 Talks:  
 
+- [Lupus](https://renalrob-talks.netlify.app/24_lupus) for the general nephrologist: Renal StR teaching (2024)  
+
 - [How to assess kidney disease](https://renalrob-talks.netlify.app/24_FY1): FY1 lunchtime teaching (2024)  
 
 - [Principles of acid-base](https://renalrob-talks.netlify.app/24_UCL_acid): for UCL Applied Renal Physiology Course (2024) - see also a slightly longer version in 2023  
