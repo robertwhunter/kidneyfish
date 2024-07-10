@@ -10,6 +10,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 Talks:  
 
+- [Kidney disease in the elderly](https://renalrob-talks.netlify.app/24_MOE): for MOE lunchtime teaching (2024) - adapted from verision for [MOE SpR teaching](https://renalrob-talks.netlify.app/23_MOE) in 2023  
+
 - [Lupus](https://renalrob-talks.netlify.app/24_lupus) for the general nephrologist: Renal StR teaching (2024)  
 
 - [How to assess kidney disease](https://renalrob-talks.netlify.app/24_FY1): FY1 lunchtime teaching (2024)  
@@ -23,8 +25,6 @@ Talks:
 - [Hypertension](https://renalrob-talks.netlify.app/24_HTN): for MBChB Year 1 Knowledge to Clinical Practice (Feb 2024)  
 
 - [Better biomarkers](https://renalrob-talks.netlify.app/23_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2023)  
-
-- [Kidney disease in the elderly](https://renalrob-talks.netlify.app/23_MOE): for MOE SpR teaching (2023)
 
 - [Acid-base cases](https://renalrob-talks.netlify.app/23_CMT_acid): for renal FY/CMT teaching (2023)
 
