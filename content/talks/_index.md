@@ -10,7 +10,7 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 Talks:  
 
-- [Kidney disease in the elderly](https://renalrob-talks.netlify.app/24_MOE): for MOE lunchtime teaching (2024) - adapted from verision for [MOE SpR teaching](https://renalrob-talks.netlify.app/23_MOE) in 2023  
+- [Kidney disease in the elderly](https://renalrob-talks.netlify.app/24_MOE): for MOE lunchtime teaching (2024) - adapted from version for [MOE SpR teaching](https://renalrob-talks.netlify.app/23_MOE) in 2023  
 
 - [Lupus](https://renalrob-talks.netlify.app/24_lupus) for the general nephrologist: Renal StR teaching (2024)  
 
@@ -45,4 +45,11 @@ Talks:
 - [GP update](https://renalrob-talks.netlify.app/22_gp/): update for primary care: what is new in renal medicine? (Sep 2022)  
 
 - [PLEX in vasculitis](https://renalrob-talks.netlify.app/21_plex/): role of plasma exchange in ANCA vasculitis (Nov 2021)
+
+<br>
+<br>
+
+Podcast episode:  
+
+- [Food, we need to talk](https://www.foodweneedtotalk.com/episodes/s4e2): Should we be worried about salt? (Jan 2024)  
 
