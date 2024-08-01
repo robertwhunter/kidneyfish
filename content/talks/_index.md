@@ -10,6 +10,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 Talks:  
 
+- [When to do a vasculitis screen](https://renalrob-talks.netlify.app/24_GIM_AAV): for GIM lunchtime teaching (2024)  
+
 - [Kidney disease in the elderly](https://renalrob-talks.netlify.app/24_MOE): for MOE lunchtime teaching (2024) - adapted from version for [MOE SpR teaching](https://renalrob-talks.netlify.app/23_MOE) in 2023  
 
 - [Lupus](https://renalrob-talks.netlify.app/24_lupus) for the general nephrologist: Renal StR teaching (2024)  
@@ -46,6 +48,8 @@ Talks:
 
 - [PLEX in vasculitis](https://renalrob-talks.netlify.app/21_plex/): role of plasma exchange in ANCA vasculitis (Nov 2021)
 
+<br>
+<br>
 <br>
 <br>
 
