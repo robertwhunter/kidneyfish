@@ -10,7 +10,11 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 ## Electrolytes:  
 
+<<<<<<< HEAD
 - [Electrolytes cases](https://renalrob-talks.netlify.app/24_electrolytes): hypoNa, hyperK and hyperCa cases for MBChB  
+=======
+- [Electrolytes cases]((https://renalrob-talks.netlify.app/24_electrolytes): hypoNa, hyperK and hyperCa cases for MBChB  
+>>>>>>> a02ace06b13785acbe9b4609fdc5c17e0517c795
 
 - [Principles of acid-base](https://renalrob-talks.netlify.app/24_UCL_acid): for UCL Applied Renal Physiology Course (2024) - see also a slightly longer version in 2023  
 
