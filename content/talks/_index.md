@@ -10,6 +10,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 ## Electrolytes:  
 
+- [Electrolytes cases]((https://renalrob-talks.netlify.app/24_electrolytes): hypoNa, hyperK and hyperCa cases for MBChB  
+
 - [Principles of acid-base](https://renalrob-talks.netlify.app/24_UCL_acid): for UCL Applied Renal Physiology Course (2024) - see also a slightly longer version in 2023  
 
 - [RTA](https://renalrob-talks.netlify.app/24_ANC): talk at Advanced Nephrology Course, Oxford (April 2024)  
@@ -34,6 +36,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 <br>
 
 ## General nephrology:  
+
+- [KRT](https://renalrob-talks.netlify.app/24_RRT): introduction to Kidney Replacement Therapy for MBChB
 
 - [Kidney disease in the elderly](https://renalrob-talks.netlify.app/24_MOE): for MOE lunchtime teaching (2024) - adapted from version for [MOE SpR teaching](https://renalrob-talks.netlify.app/23_MOE) in 2023  
 
