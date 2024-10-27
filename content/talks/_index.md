@@ -12,15 +12,13 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 - [Electrolytes cases](https://renalrob-talks.netlify.app/24_electrolytes): hypoNa, hyperK and hyperCa cases for MBChB  
 
-- [Principles of acid-base](https://renalrob-talks.netlify.app/24_UCL_acid): for UCL Applied Renal Physiology Course (2024) - see also a slightly longer version in 2023  
+- [Principles of acid-base](https://renalrob-talks.netlify.app/24_UCL_acid): for UCL Applied Renal Physiology Course (2024) - see also a slightly longer version in [2023](https://renalrob-talks.netlify.app/23_UCL_acid)  
 
 - [RTA](https://renalrob-talks.netlify.app/24_ANC): talk at Advanced Nephrology Course, Oxford (April 2024)  
 
 - [Tubulopathies](https://renalrob-talks.netlify.app/24_tubule): talk at RCPE Joint Renal Diabetes Symposium (Mar 2024)  
 
 - [Acid-base cases](https://renalrob-talks.netlify.app/23_CMT_acid): for renal FY/CMT teaching (2023)
-
-- [Principles of acid-base](https://renalrob-talks.netlify.app/23_UCL_acid): for UCL Applied Renal Physiology Course (2023)
 
 - [Hypernatraemia](https://renalrob-talks.netlify.app/23_UCL_hyperNa): for UCL Applied Renal Physiology Course (2023)
 
@@ -68,7 +66,7 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 ## Miscellaneous:  
 
-- [Better biomarkers](https://renalrob-talks.netlify.app/23_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2023)  
+- [Better biomarkers](https://renalrob-talks.netlify.app/24_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2024)  
 
 - [Applying for funding](https://renalrob-talks.netlify.app/22_funding): RCPE Introduction to Research Course (Nov 2022)  
 
