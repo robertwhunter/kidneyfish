@@ -35,6 +35,8 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 ## General nephrology:  
 
+- [AKI](https://renalrob-talks.netlify.app/24_AKI): AKI for MBChB
+
 - [KRT](https://renalrob-talks.netlify.app/24_RRT): introduction to Kidney Replacement Therapy for MBChB
 
 - [Kidney disease in the elderly](https://renalrob-talks.netlify.app/24_MOE): for MOE lunchtime teaching (2024) - adapted from version for [MOE SpR teaching](https://renalrob-talks.netlify.app/23_MOE) in 2023  
