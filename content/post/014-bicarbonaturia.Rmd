@@ -26,7 +26,7 @@ draft: FALSE
 
 With respect to bicarbonate reabsorption, there are [two key parameters](https://pubmed.ncbi.nlm.nih.gov/16695919/) to consider: the Tm = maximal rate of tubular HCO~3~ reabsoption and the renal bicarbonate threshold = the serum [HCO~3~] at which the filtered load exceeds Tm, and bicarbonate begins to appear in the urine.  
 
-There is an *apparent* Tm for HCO~3~^-^, setting a tubular threshold close to 25 mM but this is variable and influenced by various factors (GFR, luminal pH, hormonal factors etc.)  For example, during volume depletion, stimulation of Na^+^ reabsorption (NHE activity) will increase HCO~3~^-^ re-absorption, so leading to an increase in the apparent Tm for HCO~3~^-^. Under normal circumstances, FE~HCO3~ is \< 0.1% (Lote).  (See below for an explanation on why this is an "apparent" Tm.)
+There is an *apparent* Tm for HCO~3~^-^, setting a tubular threshold close to 25 mM but this is variable and influenced by various factors (GFR, luminal pH, hormonal factors etc.)  For example, during volume depletion, stimulation of Na^+^ reabsorption (NHE activity) will increase HCO~3~^-^ re-absorption, so leading to an increase in the apparent Tm for HCO~3~^-^. (See below for an explanation on why this is an "apparent" Tm.)
 
 ![](/images/HCO3_Tm.png)
 <br>
@@ -52,7 +52,7 @@ Above this threshold, almost all secreted H+ is buffered by HCO~3~ in the renal 
 
 ### pRTA (type II)
 
-In children with pRTA, there is a reduction in Tm and therefore in the renal bicarbonate threshold (to 15 - 20 mM).  Therefore, when [HCO~3~] is in this range of 15 - 20 mM, there are significant quantities of HCO3 in the distal tubular fluid so that any secreted protons are buffered and the urinary pH remains alkaline.  Once serum [HCO~3~] falls below the renal bicarbonate threshold, secreted protons are free to acidify the urine.  Therefore these children can still generate acid urine (pH \< 5.5 with high titratable acid and NH~4~ excretion) but there is a left-shift in the urinary pH-serum [HCO~3~] curve.  
+In children with pRTA, there is a reduction in Tm and therefore in the renal bicarbonate threshold (to 15 - 20 mM).  Therefore, when [HCO~3~] is in this range of 15 - 20 mM, there are significant quantities of HCO~3~ in the distal tubular fluid so that any secreted protons are buffered and the urinary pH remains alkaline.  Once serum [HCO~3~] falls below the renal bicarbonate threshold, secreted protons are free to acidify the urine.  Therefore these children can still generate acid urine (pH \< 5.5 with high titratable acid and NH~4~ excretion) but there is a left-shift in the urinary pH-serum [HCO~3~] curve.  
 
 (In the original Edelman series, there was one exception who could not fully acidify the urine: a patient with Fanconi syndrome in whom hypophosphaturia limited the renal excretion of titratable acid.)  
 
@@ -78,7 +78,7 @@ The above simplistic model is helpful when understanding pRTA.  However, it fall
 
 We should therefore refine our simplistic model in two ways:
 
-i) the Tm for HCO~3~ would be better termed an ["apparent Tm"](https://www.goodreads.com/book/show/6401477-principles-of-renal-physiology) because of course the urinary HCO~3~ content is determined not only by "spillover" from the PCT but also by HCO3 secretion in the CD (beta-ICs) and by H^+^ secretion (alpha-ICs); 
+i) the Tm for HCO~3~ would be better termed an ["apparent Tm"](https://www.goodreads.com/book/show/6401477-principles-of-renal-physiology) because of course the urinary HCO~3~ content is determined not only by "spillover" from the PCT but also by HCO~3~ secretion in the CD (beta-ICs) and by H^+^ secretion (alpha-ICs); 
 
 ii) the Tm for HCO~3~ (and by extension the renal HCO~3~ threshold) is not fixed; for example it varies in response to changes in volume status, GFR, luminal pH, hormonal signalling... 
 
@@ -95,12 +95,16 @@ The hypochloraemia / pendrin effect is likely dominant because chloride repletio
 <br>
 <br>
 
-## Clinical implications in vomiting
+## Clinical implications after vomiting
 
 The clinical implications are that after vomiting:  
 
 - bicarbonaturia can drive renal losses of Na^+^ and K^+^ - leading to hypokalaemia...  
 - resolution of the alkalosis is only achieved by replacing chloride (e.g with generous IV NaCl)  
 
-There is the potential for confusion because, U~Na~ may be high (in contrast to other hypovolaemic states) and U~K~ may be high (in contrast to hypokalaemia in the context of lower GI losses).  
+There is the potential for confusion because U~Na~ may be high (in contrast to other hypovolaemic states) and U~K~ may be high (in contrast to hypokalaemia in the context of lower GI losses).  
+
+The test of choice, therefore, to differentiate between purging and salt-losing tubulopathy (e.g. in unexplained hypokalaemic alkalosis) is a urinary chloride; FE~Cl~ is \< 0.5% after vomiting.  
+
+
 
