@@ -10,11 +10,11 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 ## Electrolytes:  
 
+- [Adult tubulopathies](https://renalrob-talks.netlify.app/25_ANC): talk at Advanced Nephrology Course, Oxford (Jan 2025) - see also a different version from [2024](https://renalrob-talks.netlify.app/24_ANC)  
+
 - [Electrolytes cases](https://renalrob-talks.netlify.app/24_electrolytes): hypoNa, hyperK and hyperCa cases for MBChB  
 
 - [Principles of acid-base](https://renalrob-talks.netlify.app/24_UCL_acid): for UCL Applied Renal Physiology Course (2024) - see also a slightly longer version in [2023](https://renalrob-talks.netlify.app/23_UCL_acid)  
-
-- [RTA](https://renalrob-talks.netlify.app/24_ANC): talk at Advanced Nephrology Course, Oxford (April 2024)  
 
 - [Tubulopathies](https://renalrob-talks.netlify.app/24_tubule): talk at RCPE Joint Renal Diabetes Symposium (Mar 2024)  
 
