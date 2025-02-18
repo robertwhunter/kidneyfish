@@ -4,7 +4,7 @@ featured_image: "/images/lecture.jpg"
 title: Talks
 ---
 
-Some slidesets from recent talks.  When the slides are loaded, press 'p' to see presenter notes with additional / explanatory information; press 'o' for an overview of all slides.  
+Some slidesets and handouts from recent talks.  For the slidesets: when the slides are loaded, press 'p' to see presenter notes with additional / explanatory information; press 'o' for an overview of all slides.  
 
 <br>
 
@@ -43,7 +43,7 @@ Some slidesets from recent talks.  When the slides are loaded, press 'p' to see 
 
 - [How to assess kidney disease](https://renalrob-talks.netlify.app/24_FY1): FY1 lunchtime teaching (2024)  
 
-- [Hypertension](https://renalrob-talks.netlify.app/24_HTN): for MBChB Year 1 Knowledge to Clinical Practice (Feb 2024)  
+- [Hypertension](https://renalrob-talks.netlify.app/25_HTN): handout for MBChB Year 1 Knowledge to Clinical Practice (Feb 2025)  
 
 - [Renal QI](https://renalrob-talks.netlify.app/22_gim): interesting cases for GIM teaching (May 2022 - updated Jan 2023)  
 

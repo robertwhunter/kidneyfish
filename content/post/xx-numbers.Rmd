@@ -1,0 +1,58 @@
+---
+title: Physiology by numbers   
+author: Robert W Hunter
+date: '2022-09-01'
+slug: numbers
+categories:
+  - clinical
+tags:
+  - fluids
+description: 'Crunching the numbers'
+featured_image: ''
+twitterImg: '/images/twittercard.jpg'
+draft: TRUE
+---
+
+## In this post...
+
+- How hard the renal tubules work
+- How close we are to catastrophe
+- How rubbish dialysis therapies are
+
+## Assumptions
+
+Number of minutes per day = 1500
+Number of minutes per week = 10,000
+
+RBF = 1000 ml/min
+GFR = 100 ml/min (makes sense if RPF is 50% of RBF and FF is 20%)
+
+[NaCl] = 140 mM; molecular mass = 58 g/mol
+
+[gluose] = 5 mM; molecular mass = 180 g/mol
+
+<br>
+<br>
+
+## Implications for tubular work-load
+
+Blood flow: 1500L per day = 10,000L per week
+
+Fluid filtered (and hence reabsorbed): 150L per day = 1000L per week
+
+NaCl fitered: 200 moles = 1.2 kg per day = 8 kg per week
+
+Glucose filtered: 0.75 moles = 135 g per day = 1 kg per week
+
+<br>
+<br>
+
+## Implications for RRT
+
+Assuming Qb of 333 ml/min and 12 hrs HD per week and FF ??
+
+Blood flow = 250L per week = 2.5% native
+
+GFR equivalent = 10 ml/min for dialysis (slightly higher for iHD; slightly lower for PD) or 25 ml/min for cKRRT.  
+
+
