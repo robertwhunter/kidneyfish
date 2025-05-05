@@ -11,13 +11,13 @@ Here is an [interactive educational app](https://kidneyfish.shinyapps.io/davenpo
 
 ## Terms
 
-- `aHCO<sub>3</sub>` = actual bicarbonate = what the bicarbonate concentration is in the sample  
-- `stdHCO<sub>3</sub>` = what the bicarbonate concentration would have been if PaCO<sub>2</sub> was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO<sub>2</sub> 5.3 kPa)  
+- `aHCO3>` = actual bicarbonate = what the bicarbonate concentration is in the sample  
+- `stdHCO3` = what the bicarbonate concentration would have been if PaCO<sub>2</sub> was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO<sub>2</sub> 5.3 kPa)  
 - `BE` = base excess = the amount of strong acid that must be added to each liter of fully oxygenated blood to return the pH to 7.40 under standard conditions  
 
 <br>
 
-Therefore, stdHCO<sub>3</sub> and BE report the metabolic component of any disturbance, accounting for the interconversion of CO<sub>2<sub> and HCO<sub>3</sub>.  
+Therefore, stdHCO<sub>3</sub> and BE report the metabolic component of any disturbance, accounting for the interconversion of CO<sub>2</sub> and HCO<sub>3</sub>.  
 
 <br>
 
