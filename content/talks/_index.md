@@ -10,7 +10,7 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 ## Electrolytes:  
 
-- [Mixed acid-base disorders](https://renalrob-talks.netlify.app/25_mixed_abg): Webinar in RCP Next Generation Series (May 2025; NB powerpoint)  
+- [Mixed acid-base disorders](https://renalrob-talks.netlify.app/25_mixed_abg): Webinar in RCP Next Generation Series (May 2025; NB powerpoint format)  
 
 - [Adult tubulopathies](https://renalrob-talks.netlify.app/25_ANC): talk at Advanced Nephrology Course, Oxford (Jan 2025) - see also a different version from [2024](https://renalrob-talks.netlify.app/24_ANC)  
 
