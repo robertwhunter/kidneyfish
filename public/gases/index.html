@@ -187,15 +187,16 @@ if (!doNotTrack) {
 <p>Here is an <a href="https://kidneyfish.shinyapps.io/davenport_plot/">interactive educational app</a> for interpreting blood gases.</p>
 <h2 id="terms">Terms</h2>
 <ul>
-<li>aHCO3 = actual bicarbonate = what the bicarb is in the sample (but will be higher as PaCO2 higher)</li>
-<li>stdHCO3 = what the bicarb would have been if PaCO2 was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO2 5.3 kPa)</li>
-<li>BE = the amount of strong acid that must be added to each liter of fully oxygenated blood to return the pH to 7.40 under standard conditions</li>
+<li><code>aHCO3</code> = actual bicarbonate = what the bicarb is in the sample</li>
+<li><code>stdHCO3</code> = what the bicarb would have been if PaCO2 was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO2 5.3 kPa)</li>
+<li><code>BE</code> = the amount of strong acid that must be added to each liter of fully oxygenated blood to return the pH to 7.40 under standard conditions</li>
 </ul>
 <br>
 <p>Therefore, stdHCO3 and BE report the metabolic component of any disturbance, accounting for the interconversion of CO2 and HCO3.</p>
 <br>
 <h2 id="plots">Plots</h2>
 <p>The relationship between pH, PaCO2 and HCO3 is described by the Henderson-Hasselbalch equation and can be plotted in three dimensions:</p>
+<p><img src="/images/nomogram_3D.png" alt=""></p>
 <p>There are two methods used to project this on to two demensions.   Horace Davenport (c. 1958, after van Slyke), plotted pH vs. HCO3 with PaCO2 isopleths.  Siggaard-Andersen (Copenhagen, 1971) preferred plotting pH vs. PaCO2 with BE lines.</p>
 <br>
 <br>
@@ -220,7 +221,7 @@ if (!doNotTrack) {
 </ul>
 <br>
 <br>
-<p>Due to undercertainty around the accuracy of these rules, the lines are deliberately drawn without confidence intervals.  (However, these are probably in the range of <a href="https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/">+/- 5 mM</a> for bicarbonate response to respiratory perturbations.)</p>
+<p>Due to uncertainty around the accuracy of these rules, the lines are deliberately drawn without confidence intervals.  (However, these are probably in the range of <a href="https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/">+/- 5 mM</a> for bicarbonate response to respiratory perturbations.)</p>
 </div>
 </section>
     <section class="flex-ns flex-wrap justify-around mt5">
