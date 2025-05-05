@@ -1,6 +1,6 @@
 ---
 description: 'Blood gases app'
-featured_image: "/images/library.jpg"
+featured_image: "/images/abg.jpeg"
 title: gases
 ---
 
