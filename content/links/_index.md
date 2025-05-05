@@ -4,6 +4,8 @@ featured_image: "/images/keyboard.jpg"
 title: Links
 ---
 
+<div class=RWH_left>
+
 Here are some links to blogs and other useful sites in nephrology and renal physiology.  
 
 ### Blogs & podcasts
@@ -56,3 +58,5 @@ Here are some links to blogs and other useful sites in nephrology and renal phys
   [annals-int-med]: http://www.annals.org/aim 
   [JAMA]: https://www.jamanetwork.com/journals/jama 
   [nature]: http://www.nature.com/nature/index.html 
+  
+  </div>

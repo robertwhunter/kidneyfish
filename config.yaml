@@ -36,6 +36,10 @@ params:
   show_reading_time: true
   custom_css: [RWH_kidneyfish.css]
   env: production
+markup: 
+  goldmark:
+    renderer:
+      unsafe: true # added this markup section 2025 to allow raw html to be processed
   
 # Jan 2022: to add meta codes for Twitter cards, edit themes/gohugo-theme-ananke/layouts/partials/head-additions.html
 # Could also move the MaxJax scripts here - ? with defer

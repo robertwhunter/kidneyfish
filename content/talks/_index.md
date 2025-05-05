@@ -4,6 +4,8 @@ featured_image: "/images/lecture.jpg"
 title: Talks
 ---
 
+<div class=RWH_left>
+
 Some slidesets and handouts from recent talks.  For the slidesets: when the slides are loaded, press 'p' to see presenter notes with additional / explanatory information; press 'o' for an overview of all slides.  (Except for those denoted 'powerpoint' below.)  
 
 <br>
@@ -77,3 +79,4 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 <br>
 <br>
 
+</div>

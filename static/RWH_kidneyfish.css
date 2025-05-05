@@ -38,6 +38,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: avenir;
 }
 
+.RWH_left {
+  text-align: left;
+}
+
 /*
 p, li {
   font-family: 'Crimson Pro', serif;
