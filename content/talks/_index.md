@@ -4,11 +4,13 @@ featured_image: "/images/lecture.jpg"
 title: Talks
 ---
 
-Some slidesets and handouts from recent talks.  For the slidesets: when the slides are loaded, press 'p' to see presenter notes with additional / explanatory information; press 'o' for an overview of all slides.  
+Some slidesets and handouts from recent talks.  For the slidesets: when the slides are loaded, press 'p' to see presenter notes with additional / explanatory information; press 'o' for an overview of all slides.  (Except for those denoted 'powerpoint' below.)  
 
 <br>
 
 ## Electrolytes:  
+
+- [Mixed acid-base disorders](https://renalrob-talks.netlify.app/25_mixed_abg): Webinar in RCP Next Generation Series (May 2025; NB powerpoint)  
 
 - [Adult tubulopathies](https://renalrob-talks.netlify.app/25_ANC): talk at Advanced Nephrology Course, Oxford (Jan 2025) - see also a different version from [2024](https://renalrob-talks.netlify.app/24_ANC)  
 
