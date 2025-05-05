@@ -199,18 +199,20 @@ if (!doNotTrack) {
 <p><img src="/images/nomogram_3D.png" alt=""></p>
 <p>There are two methods used to project this on to two demensions.   Horace Davenport (c. 1958, after van Slyke), plotted pH vs. HCO3 with PaCO2 isopleths.  Siggaard-Andersen (Copenhagen, 1971) preferred plotting pH vs. PaCO2 with BE lines.</p>
 <br>
-<br>
 <h2 id="compensation">Compensation</h2>
 <p>The compensation lines for Davenport plots are drawn according to the following &ldquo;Boston Rules&rdquo; (Schwartz &amp; Relman, NEJM 1963; Berend et al., NEJM 2014):</p>
+<!--
+- acute respiratory acidosis: 1 mM rise in HCO3 per 10 mmHg rise in PaCO2
+- acute respiratory alkalosis: 2 mM fall ditto  
+-->
 <ul>
-<li>acute respiratory acidosis: 1 mM rise in HCO3 per 10 mmHg rise in PaCO2</li>
-<li>acute respiratory alkalosis: 2 mM fall ditto</li>
 <li>chronic respiratory acidosis: 4 mM rise in HCO3 per 10 mmHg rise in PaCO2</li>
 <li>chronic respiratory alkalosis: 5 mM fall ditto</li>
 <li>metabolic acidosis: PaCO2 = 1.5*HCO3 + 8 = &lsquo;Winter&rsquo;s formuala&rsquo; (Dell &amp; Winters, 1967)</li>
 <li>metabolic alkalosis: PaCO2 = 0.7*HCO3 + 20</li>
 </ul>
 <br>
+<p>For acute respiratory disturbances, compensation lines are drawn extended along the &lsquo;van Slyke buffer line&rsquo;.</p>
 <br>
 <p>The compensation lines for Siggaard-Andersen plots are drawn according to the following <a href="https://pubmed.ncbi.nlm.nih.gov/9671365/">Severinghaus</a> rules:</p>
 <ul>
@@ -220,8 +222,7 @@ if (!doNotTrack) {
 <li>metabolic alkalosis: PaCO2 changes by 0.6 * SBE</li>
 </ul>
 <br>
-<br>
-<p>Due to uncertainty around the accuracy of these rules, the lines are deliberately drawn without confidence intervals.  (However, these are probably in the range of <a href="https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/">+/- 5 mM</a> for bicarbonate response to respiratory perturbations.)</p>
+<p>Due to uncertainty around the accuracy of these rules, the lines are deliberately drawn without confidence intervals.  (However, these are probably in the range of <a href="https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/">+/- 5 mM</a> for bicarbonate response to respiratory perturbations.)  There are limits to the extent to which compensation can occur, so the compensation curves are likely to flatten off at extremes (not shown on the app).  For example, requirement for O2 exchange may limit the extent to which ventilation rate can be lowered to compensate for a metabolic alkalosis.</p>
 </div>
 </section>
     <section class="flex-ns flex-wrap justify-around mt5">

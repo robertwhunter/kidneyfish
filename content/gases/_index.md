@@ -30,20 +30,25 @@ The relationship between pH, PaCO2 and HCO3 is described by the Henderson-Hassel
 There are two methods used to project this on to two demensions.   Horace Davenport (c. 1958, after van Slyke), plotted pH vs. HCO3 with PaCO2 isopleths.  Siggaard-Andersen (Copenhagen, 1971) preferred plotting pH vs. PaCO2 with BE lines.  
 
 <br>
-<br>
 
 ## Compensation
 
 The compensation lines for Davenport plots are drawn according to the following "Boston Rules" (Schwartz & Relman, NEJM 1963; Berend et al., NEJM 2014):  
 
+<!--
 - acute respiratory acidosis: 1 mM rise in HCO3 per 10 mmHg rise in PaCO2
 - acute respiratory alkalosis: 2 mM fall ditto  
+-->
+
 - chronic respiratory acidosis: 4 mM rise in HCO3 per 10 mmHg rise in PaCO2 
 - chronic respiratory alkalosis: 5 mM fall ditto 
 - metabolic acidosis: PaCO2 = 1.5*HCO3 + 8 = 'Winter's formuala' (Dell & Winters, 1967) 
 - metabolic alkalosis: PaCO2 = 0.7*HCO3 + 20 
 
 <br>
+
+For acute respiratory disturbances, compensation lines are drawn extended along the 'van Slyke buffer line'.  
+
 <br>
 
 The compensation lines for Siggaard-Andersen plots are drawn according to the following [Severinghaus](https://pubmed.ncbi.nlm.nih.gov/9671365/) rules:  
@@ -54,9 +59,8 @@ The compensation lines for Siggaard-Andersen plots are drawn according to the fo
 - metabolic alkalosis: PaCO2 changes by 0.6 * SBE
 
 <br>
-<br>
 
-Due to uncertainty around the accuracy of these rules, the lines are deliberately drawn without confidence intervals.  (However, these are probably in the range of [+/- 5 mM](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/) for bicarbonate response to respiratory perturbations.)  
+Due to uncertainty around the accuracy of these rules, the lines are deliberately drawn without confidence intervals.  (However, these are probably in the range of [+/- 5 mM](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/18308967/) for bicarbonate response to respiratory perturbations.)  There are limits to the extent to which compensation can occur, so the compensation curves are likely to flatten off at extremes (not shown on the app).  For example, requirement for O2 exchange may limit the extent to which ventilation rate can be lowered to compensate for a metabolic alkalosis.  
 
 </div>
 
