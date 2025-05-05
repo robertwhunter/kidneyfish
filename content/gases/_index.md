@@ -8,10 +8,13 @@ title: Gases
 
 Here is an [interactive educational app](https://kidneyfish.shinyapps.io/davenport_plot/) for interpreting blood gases.  
 
+Some explanatory notes to accompany the app, given below.  
+
+<br>
 
 ## Terms
 
-- `aHCO3>` = actual bicarbonate = what the bicarbonate concentration is in the sample  
+- `aHCO3` = actual bicarbonate = what the bicarbonate concentration is in the sample  
 - `stdHCO3` = what the bicarbonate concentration would have been if PaCO<sub>2</sub> was normal (i.e. under standard conditions: T37, fully oxygenated, PaCO<sub>2</sub> 5.3 kPa)  
 - `BE` = base excess = the amount of strong acid that must be added to each liter of fully oxygenated blood to return the pH to 7.40 under standard conditions  
 
