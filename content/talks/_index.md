@@ -45,7 +45,7 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 - [Kidney disease in the elderly](https://renalrob-talks.netlify.app/24_MOE): for MOE lunchtime teaching (2024) - adapted from version for [MOE SpR teaching](https://renalrob-talks.netlify.app/23_MOE) in 2023  
 
-- [How to assess kidney disease](https://renalrob-talks.netlify.app/24_FY1): FY1 lunchtime teaching (2024)  
+- [How to assess kidney disease](https://renalrob-talks.netlify.app/25_FY1): FY1 lunchtime teaching (2025)  
 
 - [Hypertension](https://renalrob-talks.netlify.app/25_HTN): handout for MBChB Year 1 Knowledge to Clinical Practice (Feb 2025)  
 

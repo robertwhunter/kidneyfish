@@ -1,0 +1,59 @@
+---
+title: Urinary diversion
+author: Robert W Hunter
+date: '2025-05-15'
+slug: neobladder
+categories:
+  - physiology
+tags:
+  - chloride
+  - acidbase
+description: ''
+featured_image: '/images/curves.jpg'
+draft: TRUE
+---
+
+## In this post...
+
+- Complications of urinary diversion  
+- Hyperammonaemic encephalopathy
+
+
+## Complications of urinary diversion
+
+The complications from urinary diversion arise because the intestinal epithelium (usually ileum or colon) used to fashion a neobladder expresses solute transporters that are potentially unhelpful in a bladder.  Intestinal epithelial cells express [Cl-HCO3 exhangers](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/17556426/) and [NH4 transporters (Rhcg, Rhbg)](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/15576624/).  DRA = “downregulated in adenoma”: luminal Cl / HCO3 exchanger.  Therefore, when exposed to chloride-rich urine, chloride-bicarbonate exchangers can drive bicarbonate wasting.  When ammonium production is high (e.g. in the presence of urea-splitting organisms), ammonium transporters can drive hyperammonaemia.  
+
+![](/images/colon_cell.png)
+
+<br>
+
+The complications of neobladder formation are nicely reviewed in an [AJKD Core Curriculum article](https://pubmed-ncbi-nlm-nih-gov.eux.idm.oclc.org/33972146/).  
+
+The include:  
+
+- diarrhoea (from malabsorption / bacterial overgrowth)... ...which could cause a hyperchloraemic metabolic acidosis or a D-lactic metabolic acidosis  
+- hyperchloraemic metabolic acidosis from chloride-bicarbonate exchange in the bladder (ileal and colonic neobladders)  
+- hypokalaemic alkalosis (gastric neobladders – no longer used)  
+- hypoNa / hyperK (jejunal conduits – attributed to secondary hyperaldosteronism)  
+- hyperammonaemic encephalopathy (ileal and colonic neobladders)  
+- urolithiasis (typically triple phosphate = Struvite stones from urea-splitting organisms / chronic acidosis)  
+- osteomalacia  
+- drug toxicity due to re-absorption from urine (phytoin / methotrexate…)  
+- exaggerated hyperglycaemia with absent glycosuria  
+
+<br>
+<br>
+
+## Hyperammonaemic encephalopathy
+
+The most devastating poential complication is hyperammonaemic encephalopathy.  Infection or colonisation with urea-splitting organisms (Proteus, Klebsiella, Morganella...) will result in urinary ammonium production.  This can be absorbed across the neobladder epithlium, leading to high systemic levels causing encepalopathy and coma.  
+
+The core principles of management are:  
+
+- ensure urinary drainage (e.g. insert urinary catheter)  
+- prompt, appropriate antibiotics  
+- correct hypokalaemia (will drive renal tubular ammoniagenesis)  
+- lactulose / low protein diet / possibly neomycin (as for hepatic encephalopathy)  
+- consider haemodialysis for rapid ammonium removal  
+
+
