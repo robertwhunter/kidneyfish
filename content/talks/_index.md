@@ -18,7 +18,7 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 - [Adult tubulopathies](https://renalrob-talks.netlify.app/25_ANC): talk at Advanced Nephrology Course, Oxford (Jan 2025) - see also a different version from [2024](https://renalrob-talks.netlify.app/24_ANC)  
 
-- [Electrolytes cases](https://renalrob-talks.netlify.app/24_electrolytes): hypoNa, hyperK and hyperCa cases for MBChB  
+- [Electrolytes cases](https://renalrob-talks.netlify.app/25_electrolytes): hypoNa, hyperK and hyperCa cases for MBChB; with handouts for [hypoNa](https://renalrob-talks.netlify.app/25_electrolytes_Na), [hyperK](https://renalrob-talks.netlify.app/25_electrolytes_K) & [hyperCa](https://renalrob-talks.netlify.app/25_electrolytes_Ca)
 
 - [Tubulopathies](https://renalrob-talks.netlify.app/24_tubule): talk at RCPE Joint Renal Diabetes Symposium (Mar 2024)  
 
