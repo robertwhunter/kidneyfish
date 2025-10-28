@@ -12,6 +12,8 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 ## Electrolytes:  
 
+- [Hyponatraemia: advanced concepts](https://renalrob-talks.netlify.app/25_Na): hyponatraemia teaching for renal SpRs (Oct 2025)  
+
 - [Principles of acid-base](https://renalrob-talks.netlify.app/25_UCL_acid): for UCL Applied Renal Physiology Course (2025) - see also a less clinically-oriented version in [2023](https://renalrob-talks.netlify.app/23_UCL_acid)  
 
 - [Mixed acid-base disorders](https://renalrob-talks.netlify.app/25_mixed_abg): Webinar in RCP Next Generation Series (May 2025; NB powerpoint format)  
@@ -27,8 +29,6 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 - [Hypernatraemia](https://renalrob-talks.netlify.app/23_UCL_hyperNa): for UCL Applied Renal Physiology Course (2023)
 
 - [Hyperkalaemia](https://renalrob-talks.netlify.app/23_UCL_hyperK): for UCL Applied Renal Physiology Course (2023)
-
-- [Hyponatraemia: advanced concepts](https://renalrob-talks.netlify.app/23_Na_full): hyponatraemia teaching for renal SpRs (Mar 2023)  
 
 - [Hypokalaemia in the receiving unit](https://renalrob-talks.netlify.app/22_hypok): talk at Medicine24 (Nov 2022)  
 
