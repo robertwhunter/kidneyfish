@@ -72,9 +72,9 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 ## Miscellaneous:  
 
-- [Better biomarkers](https://renalrob-talks.netlify.app/25_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2025)  
+- [Applying for funding](https://renalrob-talks.netlify.app/26_funding): RCPE Introduction to Research Course (Mar 2026)  
 
-- [Applying for funding](https://renalrob-talks.netlify.app/22_funding): RCPE Introduction to Research Course (Nov 2022)  
+- [Better biomarkers](https://renalrob-talks.netlify.app/25_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2025)  
 
 <br>
 <br>
