@@ -10,6 +10,8 @@ Here is an [interactive educational app](https://kidneyfish.shinyapps.io/davenpo
 
 Some explanatory notes to accompany the app, given below.  
 
+And see further notes on blood gas interpretation in [Nephromaths](https://kidneyfish-nephromaths.netlify.app/blood-gas-interpretation).  
+
 <br>
 
 ## Terms
@@ -34,7 +36,7 @@ There are two methods used to project this on to two demensions.   Horace Davenp
 
 <br>
 
-## Compensation
+## Compensation lines
 
 The compensation lines for Davenport plots are drawn according to the following "Boston Rules" (Schwartz & Relman, NEJM 1963; Berend et al., NEJM 2014):  
 

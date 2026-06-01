@@ -12,9 +12,9 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 ## Electrolytes:  
 
-- [Hyponatraemia: advanced concepts](https://renalrob-talks.netlify.app/25_Na): hyponatraemia teaching for renal SpRs (Oct 2025)  
-
 - [Principles of acid-base](https://renalrob-talks.netlify.app/26_UCL_acid): for UCL Applied Renal Physiology Course (2026; NB powerpoint format) - see also a less clinically-oriented version in [2023](https://renalrob-talks.netlify.app/23_UCL_acid)  
+
+- [Hyponatraemia: advanced concepts](https://renalrob-talks.netlify.app/25_Na): hyponatraemia teaching for renal SpRs (Oct 2025)  
 
 - [Mixed acid-base disorders](https://renalrob-talks.netlify.app/25_mixed_abg): Webinar in RCP Next Generation Series (May 2025; NB powerpoint format)  
 
@@ -75,6 +75,8 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 - [Applying for funding](https://renalrob-talks.netlify.app/26_funding): RCPE Introduction to Research Course (Mar 2026)  
 
 - [Better biomarkers](https://renalrob-talks.netlify.app/25_biomarkers): teaching for BMedSci in Health Sciences, Scientific Frontiers of Medicine (Oct 2025)  
+
+- [Temporary space](https://renalrob-talks.netlify.app/temp): used to host slides on a rotating basis for various talks   
 
 <br>
 <br>
