@@ -12,6 +12,8 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 ## Electrolytes:  
 
+- [Suspected tubulopathies (abnormal electrolytes)](https://renalrob-talks.netlify.app/26_RCP_tubule): for RCP Evening Update (2026; NB powerpoint format)  
+
 - [Principles of acid-base](https://renalrob-talks.netlify.app/26_UCL_acid): for UCL Applied Renal Physiology Course (2026; NB powerpoint format) - see also a less clinically-oriented version in [2023](https://renalrob-talks.netlify.app/23_UCL_acid)  
 
 - [Hyponatraemia: advanced concepts](https://renalrob-talks.netlify.app/25_Na): hyponatraemia teaching for renal SpRs (Oct 2025)  
