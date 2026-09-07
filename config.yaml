@@ -29,9 +29,9 @@ params:
   # site_logo: /images/favicon.ico - REMOVED Jan 2022
   # slack: ''
   # stackoverflow: ''
-  twitter: https://twitter.com/renalrob
-  twitterAuthor: '@renalrob' # added 2022 - for Twitter cards
-  twitterImg: /images/twittercard.jpg # addedd 2022 - for Twitter cards
+  # twitter: https://twitter.com/renalrob
+  # twitterAuthor: '@renalrob' # added 2022 - for Twitter cards
+  # twitterImg: /images/twittercard.jpg # addedd 2022 - for Twitter cards
   # youtube: ''
   show_reading_time: true
   custom_css: [RWH_kidneyfish.css]
