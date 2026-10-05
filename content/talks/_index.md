@@ -82,6 +82,9 @@ Some slidesets and handouts from recent talks.  For the slidesets: when the slid
 
 - [Temporary space 2](https://renalrob-talks.netlify.app/26_Y4_AKI): used to host slides on a rotating basis for various talks   
 
+- [Temporary space 3](https://renalrob-talks.netlify.app/26_BIM_d1): used to host slides on a rotating basis for various talks   
+
+- [Temporary space 4](https://renalrob-talks.netlify.app/26_BIM_d2): used to host slides on a rotating basis for various talks   
 
 <br>
 <br>
